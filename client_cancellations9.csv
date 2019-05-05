@@ -1,0 +1,1961 @@
+booking_date,booking_date_month,booking_day_of_week,client_code,service_code,service_desc,staff,price,canceled_yes_no
+2018-03-14,March,Wednesday,JUNJ01,CON,Consultation,JJ,0,1
+2018-03-14,March,Wednesday,NORJ01,SHCM,Men's hair cut,JJ,49.48,1
+2018-03-15,March,Thursday,SCHJ01,CON,Consultation,JJ,0,0
+2018-03-15,March,Thursday,SCHJ02,SHCM,Men's hair cut,JJ,40,0
+2018-03-15,March,Thursday,LEHJ01,SHCM,Men's hair cut,JJ,40,0
+2018-03-15,March,Thursday,THOD01,SHCM,Men's hair cut,JJ,40,0
+2018-03-15,March,Thursday,KERT01,SHCW,Women's hair cut,JJ,82,0
+2018-03-15,March,Thursday,CORS01,SHCW,Women's hair cut,JJ,82,0
+2018-03-16,March,Friday,SLEA01,SHCM,Men's hair cut,JJ,40,0
+2018-03-16,March,Friday,STEH01,SHCM,Men's hair cut,JJ,40,0
+2018-03-16,March,Friday,CHEW01,SHCW,Women's hair cut,JJ,82,0
+2018-03-16,March,Friday,PARC01,SHCW,Women's hair cut,JJ,82,0
+2018-03-16,March,Friday,TSUL01,SHCW,Women's hair cut,JJ,82,0
+2018-03-16,March,Friday,STRH01,SHCW,Women's hair cut,JJ,82,0
+2018-03-20,March,Tuesday,HUDS01,SHCW,Women's hair cut,JJ,82,0
+2018-03-20,March,Tuesday,ERWS01,SHCW,Women's hair cut,JJ,82,0
+2018-03-20,March,Tuesday,HOT01,SHCW,Women's hair cut,JJ,82,0
+2018-03-20,March,Tuesday,MAIK01,SHCW,Women's hair cut,JJ,82,0
+2018-03-20,March,Tuesday,NGUS01,SHCW,Women's hair cut,JJ,102,0
+2018-03-21,March,Wednesday,BERI01,SHCM,Men's hair cut,JJ,40,0
+2018-03-21,March,Wednesday,ROLD01,SHCM,Men's hair cut,JJ,40,0
+2018-03-21,March,Wednesday,POTR01,SHCM,Men's hair cut,JJ,40,0
+2018-03-21,March,Wednesday,YUES01,SHCW,Women's hair cut,JJ,82,0
+2018-03-21,March,Wednesday,KRIJ01,SHCW,Women's hair cut,JJ,82,0
+2018-03-21,March,Wednesday,CASH01,SHCW,Women's hair cut,JJ,82,0
+2018-03-22,March,Thursday,HYSA01,SHCM,Men's hair cut,JJ,40,0
+2018-03-22,March,Thursday,GALB01,SHCM,Men's hair cut,JJ,40,0
+2018-03-22,March,Thursday,TAYD01,SHCW,Women's hair cut,JJ,82,0
+2018-03-22,March,Thursday,GOSD01,SHCW,Women's hair cut,JJ,82,0
+2018-03-22,March,Thursday,OKEM01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,TAYE01,SHCM,Men's hair cut,JJ,40,0
+2018-03-23,March,Friday,WARG01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,MOOH01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,MUMK01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,STEL01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,DAV*01,SHCW,Women's hair cut,JJ,82,0
+2018-03-23,March,Friday,DUFD01,CON,Consultation,JJ,0,1
+2018-03-24,March,Saturday,APTM01,SHCM,Men's hair cut,JJ,40,0
+2018-03-24,March,Saturday,HIMJ01,CON,Consultation,JJ,0,1
+2018-03-27,March,Tuesday,FELH01,SHCW,Women's hair cut,JJ,82,0
+2018-03-27,March,Tuesday,MINA01,SHCW,Women's hair cut,JJ,82,0
+2018-03-27,March,Tuesday,BRES01,SHCW,Women's hair cut,JJ,82,0
+2018-03-27,March,Tuesday,BUSC01,SHCW,Women's hair cut,JJ,82,0
+2018-03-27,March,Tuesday,DESA01,SHCW,Women's hair cut,JJ,82,0
+2018-03-28,March,Wednesday,CAND01,SHCM,Men's hair cut,JJ,40,0
+2018-03-28,March,Wednesday,CAND01,CCAMO,Men's camo color,JJ,45,0
+2018-03-28,March,Wednesday,HOP01,SHCW,Women's hair cut,JJ,82,0
+2018-03-29,March,Thursday,LINM01,SHCW,Women's hair cut,JJ,82,0
+2018-03-29,March,Thursday,REDM01,SHCW,Women's hair cut,JJ,82,0
+2018-03-29,March,Thursday,FLEC01,SHCW,Women's hair cut,JJ,82,0
+2018-03-29,March,Thursday,WIL*01,SHCW,Women's hair cut,JJ,88.44,1
+2018-03-30,March,Friday,PRIM01,SHCW,Women's hair cut,JJ,51,0
+2018-03-30,March,Friday,CHUC01,SHCW,Women's hair cut,JJ,82,0
+2018-04-01,April,Sunday,SLEA01,CON,Consultation,HOUSE,0,0
+2018-04-01,April,Sunday,SLEA01,CON,Consultation,HOUSE,0,0
+2018-04-03,April,Tuesday,YATT01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-03,April,Tuesday,NICP01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-03,April,Tuesday,DANJ01,SBD,Blowdry,SINEAD,30,0
+2018-04-03,April,Tuesday,WONM02,SBD,Blowdry,JJ,32,0
+2018-04-03,April,Tuesday,THOW01,SBD,Blowdry,JJ,32,0
+2018-04-03,April,Tuesday,DOWR01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-03,April,Tuesday,HILJ01,CFC,Color full color,KELLY,63.13,1
+2018-04-03,April,Tuesday,BOSJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-03,April,Tuesday,LINJ01,SHCW,Women's hair cut,JJ,82,0
+2018-04-03,April,Tuesday,BREH01,SHCW,Women's hair cut,JJ,82,0
+2018-04-03,April,Tuesday,KOOM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-04-03,April,Tuesday,SKUD01,SBD5+1,Blow dry bundle 5+1,BECKY,230,0
+2018-04-03,April,Tuesday,WONM02,SBD,Blowdry,JJ,44.55,1
+2018-04-04,April,Wednesday,COLJ01,SHCM,Men's hair cut,JJ,40,0
+2018-04-04,April,Wednesday,SLUS01,SHCM,Men's hair cut,JJ,40,0
+2018-04-04,April,Wednesday,SARA01,SHCM,Men's hair cut,JJ,40,0
+2018-04-04,April,Wednesday,MARG01,SHCM,Men's hair cut,JJ,40,0
+2018-04-04,April,Wednesday,SCHH01,SBD,Blowdry,SINEAD,40,0
+2018-04-04,April,Wednesday,WOOD01,CTU,Color touch up,KELLY,55,0
+2018-04-04,April,Wednesday,BALJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-04,April,Wednesday,KEN*01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-04,April,Wednesday,WOOD01,SHCW,Women's hair cut,JJ,92,0
+2018-04-04,April,Wednesday,STRH01,CHLFH,Highlights full,KELLY,120,1
+2018-04-04,April,Wednesday,SCHH01,CHLFH,Highlights full,KELLY,120,0
+2018-04-04,April,Wednesday,SARA01,CBAL,Balayage,KELLY,155.56,1
+2018-04-05,April,Thursday,TINT01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-05,April,Thursday,SUPR01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-05,April,Thursday,BREM01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-05,April,Thursday,PIPJ01,SHCM,Men's hair cut,JJ,40,0
+2018-04-05,April,Thursday,LYNG01,SHCM,Men's hair cut,JJ,40,0
+2018-04-05,April,Thursday,HOLL01,CTU,Color touch up,KELLY,55,0
+2018-04-05,April,Thursday,DANJ02,SHCW,Women's hair cut,BECKY,60,0
+2018-04-05,April,Thursday,SCHJ01,SHCM,Men's hair cut,JJ,60,0
+2018-04-05,April,Thursday,COOM01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-05,April,Thursday,HOLL01,SHCW,Women's hair cut,SINEAD,80,0
+2018-04-05,April,Thursday,JASA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-05,April,Thursday,VERM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-05,April,Thursday,JARS01,SHCW,Women's hair cut,JJ,82,0
+2018-04-05,April,Thursday,SHIG01,SHCW,Women's hair cut,JJ,92,0
+2018-04-05,April,Thursday,SHIG01,CHLPL,Highlights partial,KELLY,100,0
+2018-04-05,April,Thursday,HILJ01,SBD5+1,Blow dry bundle 5+1,SINEAD,230,0
+2018-04-06,April,Friday,KLEA01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-06,April,Friday,HELJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-06,April,Friday,NORE01,SBD,Blowdry,BECKY,30,0
+2018-04-06,April,Friday,LEEP01,SHCM,Men's hair cut,JJ,40,0
+2018-04-06,April,Friday,PLUJ01,SHCM,Men's hair cut,JJ,40,0
+2018-04-06,April,Friday,THOW02,SHCM,Men's hair cut,JJ,40,0
+2018-04-06,April,Friday,WAX*01,SHCM,Men's hair cut,JJ,40,0
+2018-04-06,April,Friday,MCLI01,SHCM,Men's hair cut,JJ,40,0
+2018-04-06,April,Friday,MORB01,SBD,Blowdry,BECKY,40,0
+2018-04-06,April,Friday,BROS01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-06,April,Friday,KULR01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-06,April,Friday,MORB01,CFC,Color full color,KELLY,70,0
+2018-04-06,April,Friday,SINM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-06,April,Friday,NGUS01,CALC,Accent lights and color,KELLY,90,0
+2018-04-07,April,Saturday,STOD01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-07,April,Saturday,SINT01,SHCC,Children (under 12),BECKY,30,0
+2018-04-07,April,Saturday,SINW01,SHCC,Children (under 12),JJ,32,0
+2018-04-07,April,Saturday,WILK01,SBD,Blowdry,JJ,42,0
+2018-04-07,April,Saturday,SENM01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-07,April,Saturday,WANM01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-07,April,Saturday,BLAJ01,SHCW,Women's hair cut,SINEAD,65,0
+2018-04-07,April,Saturday,JOHJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-07,April,Saturday,KENH01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-07,April,Saturday,CAYK01,SHCW,Women's hair cut,BECKY,70,0
+2018-04-07,April,Saturday,CAYK01,CFC,Color full color,KELLY,70,0
+2018-04-07,April,Saturday,GALG01,SHCW,Women's hair cut,JJ,82,0
+2018-04-07,April,Saturday,DOLD01,SHCW,Women's hair cut,JJ,82,0
+2018-04-07,April,Saturday,KURG01,SHCW,Women's hair cut,JJ,82,0
+2018-04-07,April,Saturday,WILK01,CHLPHC,Partial highlights and color,KELLY,120,0
+2018-04-08,April,Sunday,CHAG01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-08,April,Sunday,SCHJ03,SBD,Blowdry,BECKY,30,0
+2018-04-08,April,Sunday,DOWR01,SBD,Blowdry,BECKY,50,0
+2018-04-08,April,Sunday,TOPS01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-08,April,Sunday,HUDM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-04-10,April,Tuesday,MCCB01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-10,April,Tuesday,IRWE01,SHCM,Men's hair cut,SINEAD,45,0
+2018-04-10,April,Tuesday,IRWE01,CTU,Color touch up,KELLY,55,0
+2018-04-10,April,Tuesday,MARD01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-10,April,Tuesday,LANS01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-10,April,Tuesday,SIDA01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-10,April,Tuesday,CARB01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-10,April,Tuesday,KOOM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-10,April,Tuesday,BOWM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-10,April,Tuesday,SAMB01,SHCW,Women's hair cut,JJ,82,0
+2018-04-10,April,Tuesday,KRIA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-10,April,Tuesday,CULT01,CON,Consultation,SINEAD,8.33,1
+2018-04-10,April,Tuesday,PUGS01,CON,Consultation,JJ,0,1
+2018-04-11,April,Wednesday,VAUD01,SBD,Blowdry,JJ,32,0
+2018-04-11,April,Wednesday,POOD01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-11,April,Wednesday,TRAJ01,SHCM,Men's hair cut,JJ,40,0
+2018-04-11,April,Wednesday,DOWR01,SBD,Blowdry,SINEAD,45.11,1
+2018-04-11,April,Wednesday,HILJ01,SBD,Blowdry,SINEAD,45.11,1
+2018-04-11,April,Wednesday,POTR01,SHCM,Men's hair cut,JJ,60,0
+2018-04-11,April,Wednesday,BROA01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-11,April,Wednesday,GREN01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-11,April,Wednesday,DACJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-11,April,Wednesday,RUTA01,CALC,Accent lights and color,KELLY,80,0
+2018-04-11,April,Wednesday,GARJ01,SHCW,Women's hair cut,JJ,82,0
+2018-04-11,April,Wednesday,SPRK01,SHCW,Women's hair cut,JJ,82,0
+2018-04-11,April,Wednesday,KIMF01,SHCW,Women's hair cut,JJ,82,0
+2018-04-11,April,Wednesday,ARRM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-11,April,Wednesday,HENI01,SHCW,Women's hair cut,JJ,82,0
+2018-04-11,April,Wednesday,RUTA01,SHCW,Women's hair cut,JJ,92,0
+2018-04-11,April,Wednesday,HOLL01,SBD5+1,Blow dry bundle 5+1,HOUSE,225,0
+2018-04-11,April,Wednesday,KUKK01,CON,Consultation,SINEAD,8.33,1
+2018-04-12,April,Thursday,STEB01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-12,April,Thursday,GUBD01,SHCM,Men's hair cut,JJ,40,0
+2018-04-12,April,Thursday,ESKR01,SHCW,Women's hair cut,JJ,82,0
+2018-04-12,April,Thursday,BOWV01,SHCW,Women's hair cut,JJ,82,0
+2018-04-12,April,Thursday,JIAL01,SHCW,Women's hair cut,JJ,82,0
+2018-04-12,April,Thursday,PIVS01,SHCW,Women's hair cut,JJ,82,0
+2018-04-13,April,Friday,MERM01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-13,April,Friday,SIRM01,SBD,Blowdry,BECKY,30,0
+2018-04-13,April,Friday,BYRP01,SBD,Blowdry,BECKY,30,0
+2018-04-13,April,Friday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-04-13,April,Friday,DUFD01,SHCM,Men's hair cut,JJ,60,0
+2018-04-13,April,Friday,THOD01,SHCM,Men's hair cut,JJ,60,0
+2018-04-13,April,Friday,CHOC01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-04-13,April,Friday,ALLM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-13,April,Friday,ROSL01,SHCW,Women's hair cut,JJ,82,0
+2018-04-13,April,Friday,MOLA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-13,April,Friday,NORJ01,SHCW,Women's hair cut,JJ,88.44,1
+2018-04-14,April,Saturday,WOOJ01,SBD,Blowdry,JJ,32,0
+2018-04-14,April,Saturday,LEEN01,SHCC,Children (under 12),BECKY,50,0
+2018-04-14,April,Saturday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-04-14,April,Saturday,BONT01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-14,April,Saturday,SAVP01,SHCW,Women's hair cut,JJ,82,0
+2018-04-14,April,Saturday,STOK01,SHCW,Women's hair cut,JJ,82,0
+2018-04-14,April,Saturday,SHAG01,SHCW,Women's hair cut,JJ,82,0
+2018-04-16,April,Monday,BLAR01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-17,April,Tuesday,HUYK01,SBD,Blowdry,BECKY,30,0
+2018-04-17,April,Tuesday,COLC01,SBD,Blowdry,BECKY,30,0
+2018-04-17,April,Tuesday,HOG*01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-17,April,Tuesday,JONC01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-17,April,Tuesday,LEEM01,CTU,Color touch up,KELLY,55,0
+2018-04-17,April,Tuesday,STEA01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-17,April,Tuesday,GOUE01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-17,April,Tuesday,ROWD01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-17,April,Tuesday,MANL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-17,April,Tuesday,WEIA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-17,April,Tuesday,LEEM01,SHCW,Women's hair cut,JJ,92,0
+2018-04-17,April,Tuesday,BROS01,SBD5+1,Blow dry bundle 5+1,HOUSE,230,0
+2018-04-18,April,Wednesday,WELL01,SBD,Blowdry,SINEAD,30,0
+2018-04-18,April,Wednesday,MILE01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-18,April,Wednesday,DAVA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-18,April,Wednesday,SORM01,SHCW,Women's hair cut,JJ,92,0
+2018-04-18,April,Wednesday,SORM01,CHLPL,Highlights partial,KELLY,100,0
+2018-04-18,April,Wednesday,KUKK01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-04-18,April,Wednesday,PHIC01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-04-19,April,Thursday,ZUKS01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-19,April,Thursday,RABH01,SHCC,Children (under 12),BECKY,30,0
+2018-04-19,April,Thursday,MAKM01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-19,April,Thursday,BUDG02,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-19,April,Thursday,JOHD01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-19,April,Thursday,SCHH01,SBD,Blowdry,BECKY,50,0
+2018-04-19,April,Thursday,HOLL01,SBD,Blowdry,SINEAD,50,0
+2018-04-19,April,Thursday,KEIS01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-19,April,Thursday,LUL01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-19,April,Thursday,GRIA01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-19,April,Thursday,MCGV01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-19,April,Thursday,BROT01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-19,April,Thursday,JARM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-19,April,Thursday,TOHS01,SHCW,Women's hair cut,JJ,82,0
+2018-04-19,April,Thursday,COAA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-19,April,Thursday,VAUD01,SHCW,Women's hair cut,JJ,102,0
+2018-04-19,April,Thursday,CASH01,CON,Consultation,JJ,0,1
+2018-04-19,April,Thursday,DODK01,CON,Consultation,SINEAD,8.33,1
+2018-04-20,April,Friday,SHIG01,CON,Consultation,BECKY,0,0
+2018-04-20,April,Friday,FINW01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-20,April,Friday,HUDM01,SBD,Blowdry,BECKY,30,0
+2018-04-20,April,Friday,FOXS01,SBD,Blowdry,JJ,32,0
+2018-04-20,April,Friday,BARW01,SHCM,Men's hair cut,JJ,40,0
+2018-04-20,April,Friday,OHAG01,SHCM,Men's hair cut,JJ,40,0
+2018-04-20,April,Friday,WARG01,SBD,Blowdry,JJ,52,0
+2018-04-20,April,Friday,SEDD01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-20,April,Friday,SCOL01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-20,April,Friday,KINN01,SHCW,Women's hair cut,JJ,82,0
+2018-04-20,April,Friday,NICM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-20,April,Friday,KOSI01,SHCW,Women's hair cut,JJ,82,0
+2018-04-20,April,Friday,MOLA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-04-21,April,Saturday,BARA01,TRE 1,Treatments 1,SINEAD,20,0
+2018-04-21,April,Saturday,DELC01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-21,April,Saturday,BARA01,SBD,Blowdry,SINEAD,30,0
+2018-04-21,April,Saturday,NIDN01,SBD,Blowdry,JJ,32,0
+2018-04-21,April,Saturday,MCND01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-21,April,Saturday,SHAA01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-21,April,Saturday,BUDG02,SHCM,Men's hair cut,SINEAD,41.41,1
+2018-04-21,April,Saturday,HILJ01,SBD,Blowdry,SINEAD,50,0
+2018-04-21,April,Saturday,HEIM01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-21,April,Saturday,STEI01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-21,April,Saturday,STEM01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-21,April,Saturday,WILB01,SDUD,Dry updo,BECKY,60,0
+2018-04-21,April,Saturday,STEM01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-04-21,April,Saturday,RICP01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-21,April,Saturday,NEML01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-21,April,Saturday,LEIF01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-21,April,Saturday,ALIR01,SDUD,Dry updo,JJ,82,0
+2018-04-21,April,Saturday,RUTR01,SHCW,Women's hair cut,JJ,102,0
+2018-04-21,April,Saturday,CORS01,SHCW,Women's hair cut,JJ,102,0
+2018-04-22,April,Sunday,APTM01,SHCM,Men's hair cut,JJ,30,0
+2018-04-22,April,Sunday,FRAW01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-22,April,Sunday,COLS01,SBD,Blowdry,BECKY,45.26,1
+2018-04-22,April,Sunday,SKUT01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-22,April,Sunday,BAIL01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-22,April,Sunday,SARK01,SHCW,Women's hair cut,JJ,82,0
+2018-04-22,April,Sunday,WONM02,SBD5+1,Blow dry bundle 5+1,HOUSE,260,0
+2018-04-24,April,Tuesday,OWED01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-24,April,Tuesday,HENB01,SHCM,Men's hair cut,JJ,40,0
+2018-04-24,April,Tuesday,BEAL01,SHCC,Children (under 12),SINEAD,45,0
+2018-04-24,April,Tuesday,BEAA01,SHCC,Children (under 12),SINEAD,45,0
+2018-04-24,April,Tuesday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-04-24,April,Tuesday,BREF01,SHCM,Men's hair cut,JJ,49.48,1
+2018-04-24,April,Tuesday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-04-24,April,Tuesday,MCKT01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-24,April,Tuesday,SCHJ01,SHCM,Men's hair cut,JJ,60,0
+2018-04-24,April,Tuesday,BERI01,SHCM,Men's hair cut,JJ,60,0
+2018-04-24,April,Tuesday,KATM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-24,April,Tuesday,LEVL01,SHCW,Women's hair cut,JJ,82,0
+2018-04-25,April,Wednesday,ZUGL01,SBD,Blowdry,SINEAD,30,0
+2018-04-25,April,Wednesday,WRI*01,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-25,April,Wednesday,SLUS01,SHCM,Men's hair cut,JJ,40,0
+2018-04-25,April,Wednesday,STOV01,SHCM,Men's hair cut,JJ,40,0
+2018-04-25,April,Wednesday,BOYL01,CMT,Color mini touch up,SINEAD,45,0
+2018-04-25,April,Wednesday,ROLD01,SHCM,Men's hair cut,JJ,49.48,1
+2018-04-25,April,Wednesday,BOYL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-25,April,Wednesday,YOUS01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-25,April,Wednesday,HILE01,SHCW,Women's hair cut,JJ,82,0
+2018-04-25,April,Wednesday,MCGA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-25,April,Wednesday,RUTM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-26,April,Thursday,RODP01,TRE 1,Treatments 1,SINEAD,20,0
+2018-04-26,April,Thursday,COLR01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-26,April,Thursday,RODP01,SBD,Blowdry,SINEAD,30,0
+2018-04-26,April,Thursday,MOYJ01,SHCM,Men's hair cut,JJ,40,0
+2018-04-26,April,Thursday,BANR01,SBD,Blowdry,BECKY,40,0
+2018-04-26,April,Thursday,KUKK01,SBD,Blowdry,SINEAD,45.11,1
+2018-04-26,April,Thursday,BUSM01,SBD,Blowdry,SINEAD,45.11,1
+2018-04-26,April,Thursday,NIES02,SHCM,Men's hair cut,JJ,49.48,1
+2018-04-26,April,Thursday,HOLL01,SBD,Blowdry,SINEAD,50,0
+2018-04-26,April,Thursday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-04-26,April,Thursday,MOIB01,CTU,Color touch up,KELLY,52.5,1
+2018-04-26,April,Thursday,BANR01,CTU,Color touch up,BECKY,55,0
+2018-04-26,April,Thursday,GALB01,SHCM,Men's hair cut,JJ,60,0
+2018-04-26,April,Thursday,MOIB01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-26,April,Thursday,BUSM01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-26,April,Thursday,SMIC01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-26,April,Thursday,GREM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-26,April,Thursday,GELK01,SHCW,Women's hair cut,JJ,82,0
+2018-04-26,April,Thursday,COLG01,SHCW,Women's hair cut,JJ,82,0
+2018-04-26,April,Thursday,CARC01,SHCW,Women's hair cut,JJ,82,0
+2018-04-27,April,Friday,REIM01,SHCM,Men's hair cut,BECKY,30,0
+2018-04-27,April,Friday,ARMG01,SBD,Blowdry,BECKY,30,0
+2018-04-27,April,Friday,OZIS01,SBD,Blowdry,BECKY,30,0
+2018-04-27,April,Friday,LEWH01,SBD,Blowdry,JJ,32,0
+2018-04-27,April,Friday,GRET01,SHCM,Men's hair cut,JJ,40,0
+2018-04-27,April,Friday,HARW01,SHCM,Men's hair cut,JJ,40,0
+2018-04-27,April,Friday,YATT01,SHCM,Men's hair cut,BECKY,50,0
+2018-04-27,April,Friday,KLEA01,SHCM,Men's hair cut,BECKY,50,0
+2018-04-27,April,Friday,RANZ01,SHCW,Women's hair cut,BECKY,60,0
+2018-04-27,April,Friday,MUMK01,SHCW,Women's hair cut,JJ,75,0
+2018-04-27,April,Friday,KM01,SHCW,Women's hair cut,JJ,82,0
+2018-04-27,April,Friday,LINM02,SHCW,Women's hair cut,JJ,82,0
+2018-04-27,April,Friday,TINA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-27,April,Friday,CHEW01,SHCW,Women's hair cut,JJ,102,0
+2018-04-27,April,Friday,GOSD01,SHCW,Women's hair cut,JJ,102,0
+2018-04-27,April,Friday,SIRM01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-04-27,April,Friday,CARC01,CON,Consultation,JJ,0,1
+2018-04-28,April,Saturday,CULT01,CON,Consultation,SINEAD,0,0
+2018-04-28,April,Saturday,MCGA02,SHCM,Men's hair cut,SINEAD,35,0
+2018-04-28,April,Saturday,BISJ01,SBD,Blowdry,JJ,44.55,1
+2018-04-28,April,Saturday,TAYE01,SHCM,Men's hair cut,JJ,49.48,1
+2018-04-28,April,Saturday,RODP01,SBD,Blowdry,SINEAD,50,0
+2018-04-28,April,Saturday,WOOJ01,SBD,Blowdry,SINEAD,50,0
+2018-04-28,April,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-04-28,April,Saturday,ROGE01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-28,April,Saturday,PHIJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-28,April,Saturday,WINL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-04-28,April,Saturday,LEGL01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-04-28,April,Saturday,MACB01,SHCW,Women's hair cut,JJ,82,0
+2018-04-28,April,Saturday,WHIA01,SHCW,Women's hair cut,JJ,82,0
+2018-04-28,April,Saturday,HOS01,SHCW,Women's hair cut,JJ,82,0
+2018-04-28,April,Saturday,HUDM01,SHCW,Women's hair cut,JJ,102,0
+2018-04-29,April,Sunday,WAGL01,SHCW,Women's hair cut,JJ,82,0
+2018-04-29,April,Sunday,ZHIJ01,SHCW,Women's hair cut,JJ,82,0
+2018-05-01,May,Tuesday,FLAD01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-01,May,Tuesday,GRIP01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-01,May,Tuesday,LEHJ01,SHCM,Men's hair cut,JJ,50,0
+2018-05-01,May,Tuesday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-05-01,May,Tuesday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-05-01,May,Tuesday,CYRA01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-01,May,Tuesday,TAYE01,SHCM,Men's hair cut,JJ,60,0
+2018-05-01,May,Tuesday,KERT01,CALC,Accent lights and color,JJ,70,0
+2018-05-01,May,Tuesday,ALVJ01,SHCW,Women's hair cut,JJ,82,0
+2018-05-01,May,Tuesday,FLEB01,SHCW,Women's hair cut,JJ,82,0
+2018-05-01,May,Tuesday,KERT01,SHCW,Women's hair cut,JJ,102,0
+2018-05-02,May,Wednesday,NELT01,SBD,Blowdry,SINEAD,30,0
+2018-05-02,May,Wednesday,DENB01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-02,May,Wednesday,RODP01,SBD,Blowdry,SINEAD,50,0
+2018-05-02,May,Wednesday,KINN01,SBD,Blowdry,JJ,52,0
+2018-05-02,May,Wednesday,POTR01,SHCM,Men's hair cut,JJ,60,0
+2018-05-02,May,Wednesday,MARA01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-02,May,Wednesday,ATKN01,SHCW,Women's hair cut,JJ,82,0
+2018-05-02,May,Wednesday,LEEV01,SHCW,Women's hair cut,JJ,82,0
+2018-05-03,May,Thursday,SPIJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-03,May,Thursday,BRAN01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-03,May,Thursday,NIES02,SHCM,Men's hair cut,JJ,40,0
+2018-05-03,May,Thursday,TSAR01,SHCM,Men's hair cut,JJ,40,0
+2018-05-03,May,Thursday,NEEL01,CTU,Color touch up,JJ,40,0
+2018-05-03,May,Thursday,GUYD01,CCAMO,Men's camo color,BECKY,40,1
+2018-05-03,May,Thursday,GUYD01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-05-03,May,Thursday,HOLL01,SBD,Blowdry,SINEAD,45,0
+2018-05-03,May,Thursday,NELT01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-03,May,Thursday,NIDN01,SBD,Blowdry,SINEAD,50,0
+2018-05-03,May,Thursday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-05-03,May,Thursday,BREM01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-03,May,Thursday,BHAJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-03,May,Thursday,MESN01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-03,May,Thursday,LYNG01,SHCM,Men's hair cut,JJ,60,0
+2018-05-03,May,Thursday,MARR01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-03,May,Thursday,LEFN01,SHCW,Women's hair cut,JJ,82,0
+2018-05-03,May,Thursday,BRIK01,SHCW,Women's hair cut,JJ,82,0
+2018-05-03,May,Thursday,WOOD02,SHCW,Women's hair cut,JJ,82,0
+2018-05-03,May,Thursday,HENI01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-03,May,Thursday,NEEL01,SHCW,Women's hair cut,JJ,92,0
+2018-05-04,May,Friday,PLUJ01,CCAMO,Men's camo color,JJ,25,0
+2018-05-04,May,Friday,COLR02,SHCM,Men's hair cut,BECKY,30,0
+2018-05-04,May,Friday,ZIMJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-04,May,Friday,ALIR02,SBD,Blowdry,BECKY,30,0
+2018-05-04,May,Friday,CAND01,CCAMO,Men's camo color,JJ,32.08,1
+2018-05-04,May,Friday,GUYD01,CCAMO,Men's camo color,BECKY,35,0
+2018-05-04,May,Friday,COLE01,SHCM,Men's hair cut,JJ,40,0
+2018-05-04,May,Friday,COLB01,SHCM,Men's hair cut,JJ,40,0
+2018-05-04,May,Friday,GUYD01,SHCM,Men's hair cut,BECKY,40,0
+2018-05-04,May,Friday,RICC01,SBD,Blowdry,BECKY,40,0
+2018-05-04,May,Friday,PENM01,SBD,Blowdry,BECKY,45.26,1
+2018-05-04,May,Friday,MCGV01,SBD,Blowdry,BECKY,45.26,1
+2018-05-04,May,Friday,NICP01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-04,May,Friday,BYRP01,SBD,Blowdry,BECKY,50,0
+2018-05-04,May,Friday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-05-04,May,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-05-04,May,Friday,MCGV01,CMT,Color mini touch up,JOANNE,50,0
+2018-05-04,May,Friday,KOOM01,SBD,Blowdry,JJ,52,0
+2018-05-04,May,Friday,PLUJ01,SHCM,Men's hair cut,JJ,60,0
+2018-05-04,May,Friday,CAND01,SHCM,Men's hair cut,JJ,60,0
+2018-05-04,May,Friday,PENM01,CTU,Color touch up,JOANNE,60,0
+2018-05-04,May,Friday,GHOP01,SHCW,Women's hair cut,BECKY,70,0
+2018-05-04,May,Friday,RICC01,CFC,Color full color,JOANNE,80,0
+2018-05-04,May,Friday,BENS01,SHCW,Women's hair cut,JJ,82,0
+2018-05-04,May,Friday,MICK01,SHCW,Women's hair cut,JJ,82,0
+2018-05-04,May,Friday,SCHC01,CHLPL,Highlights partial,JOANNE,100,0
+2018-05-04,May,Friday,GHOP01,CALC,Accent lights and color,JOANNE,130,0
+2018-05-04,May,Friday,PENM01,SBD5+1,Blow dry bundle 5+1,HOUSE,240,0
+2018-05-04,May,Friday,DUFD01,CON,Consultation,JJ,0,1
+2018-05-05,May,Saturday,IRWE01,CON,Consultation,SINEAD,0,0
+2018-05-05,May,Saturday,LAMC01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-05,May,Saturday,ALIA01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-05,May,Saturday,WYRC01,SBD,Blowdry,JJ,32,0
+2018-05-05,May,Saturday,BOTN01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-05,May,Saturday,ODOA01,SHCW,Women's hair cut,BECKY,40,0
+2018-05-05,May,Saturday,BROF01,SBD,Blowdry,BECKY,40,0
+2018-05-05,May,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-05-05,May,Saturday,HUDM01,SBD,Blowdry,JJ,52,0
+2018-05-05,May,Saturday,IRWE01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-05,May,Saturday,SCOJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-05,May,Saturday,FISV01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-05,May,Saturday,TUMM01,CTU,Color touch up,JOANNE,60,0
+2018-05-05,May,Saturday,SHIL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-05,May,Saturday,CHUJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-05,May,Saturday,HESM01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-05,May,Saturday,CAYK01,CTU,Color touch up,JOANNE,70,0
+2018-05-05,May,Saturday,IRWE01,CTU,Color touch up,JOANNE,70,0
+2018-05-05,May,Saturday,GAGC01,SHCW,Women's hair cut,JJ,82,0
+2018-05-05,May,Saturday,BENL01,SHCW,Women's hair cut,JJ,92,0
+2018-05-05,May,Saturday,TUMM01,SHCW,Women's hair cut,JJ,92,0
+2018-05-05,May,Saturday,ERWS01,SHCW,Women's hair cut,JJ,102,0
+2018-05-05,May,Saturday,BROF01,CALC,Accent lights and color,JOANNE,130,0
+2018-05-05,May,Saturday,ERWS01,CALC,Accent lights and color,JOANNE,140,0
+2018-05-05,May,Saturday,BENL01,CBAL,Balayage,JOANNE,190,0
+2018-05-06,May,Sunday,KIRR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-05-06,May,Sunday,ROUT01,SBD,Blowdry,JJ,44.55,1
+2018-05-06,May,Sunday,NELT01,SBD,Blowdry,BECKY,45.26,1
+2018-05-06,May,Sunday,HUDS01,SBD,Blowdry,JJ,52,0
+2018-05-06,May,Sunday,JONK01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-06,May,Sunday,SARM01,SHCW,Women's hair cut,JJ,82,0
+2018-05-08,May,Tuesday,CARB01,CON,Consultation,BECKY,0,1
+2018-05-08,May,Tuesday,BATP01,SHCM,Men's hair cut,JJ,40,0
+2018-05-08,May,Tuesday,HOWC01,SHCM,Men's hair cut,JJ,40,0
+2018-05-08,May,Tuesday,MCPL01,SBD,Blowdry,BECKY,40,0
+2018-05-08,May,Tuesday,KIRR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-05-08,May,Tuesday,MCPL01,SBD,Blowdry,BECKY,45.26,1
+2018-05-08,May,Tuesday,HILJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-08,May,Tuesday,ALZR01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-08,May,Tuesday,LEEP01,SHCM,Men's hair cut,JJ,60,0
+2018-05-08,May,Tuesday,PIPJ01,SHCM,Men's hair cut,JJ,60,0
+2018-05-08,May,Tuesday,JUDJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-08,May,Tuesday,KIMS01,CFC,Color full color,JOANNE,75,0
+2018-05-08,May,Tuesday,KIMY01,SHCW,Women's hair cut,JJ,82,0
+2018-05-08,May,Tuesday,BOSJ01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-08,May,Tuesday,KIMS01,SHCW,Women's hair cut,JJ,92,0
+2018-05-08,May,Tuesday,BRES01,SHCW,Women's hair cut,JJ,102,0
+2018-05-08,May,Tuesday,TAYJ01,SHCW,Women's hair cut,JJ,102,0
+2018-05-08,May,Tuesday,MCPL01,CHLFH,Highlights full,JOANNE,150,0
+2018-05-08,May,Tuesday,TAYJ01,CHLPL,Highlights partial,JOANNE,160,0
+2018-05-08,May,Tuesday,TAYL01,CHLFH,Highlights full,JOANNE,160,0
+2018-05-08,May,Tuesday,NELT01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-05-09,May,Wednesday,FLEL01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-09,May,Wednesday,SHAS01,SHCM,Men's hair cut,JJ,40,0
+2018-05-09,May,Wednesday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-05-09,May,Wednesday,CABL01,CFC,Color full color,JOANNE,65,0
+2018-05-09,May,Wednesday,ANDN01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-09,May,Wednesday,CRIV01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-09,May,Wednesday,RUPN01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-09,May,Wednesday,MCLE01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-09,May,Wednesday,SINJ01,SHCW,Women's hair cut,JJ,82,0
+2018-05-09,May,Wednesday,BERH01,CALC,Accent lights and color,JOANNE,90,0
+2018-05-09,May,Wednesday,BERH01,SHCW,Women's hair cut,JJ,92,0
+2018-05-09,May,Wednesday,KRIJ01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-10,May,Thursday,KATM01,CON,Consultation,JOANNE,0,1
+2018-05-10,May,Thursday,TAYT01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-10,May,Thursday,TAYR01,SHCM,Men's hair cut,JJ,40,0
+2018-05-10,May,Thursday,HOLL01,SBD,Blowdry,SINEAD,50,0
+2018-05-10,May,Thursday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-05-10,May,Thursday,BUDG02,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-10,May,Thursday,SOLR01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-10,May,Thursday,DINJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-10,May,Thursday,SHAP01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-10,May,Thursday,MARK01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-10,May,Thursday,COLJ01,SHCM,Men's hair cut,JJ,60,0
+2018-05-10,May,Thursday,THOD01,SHCM,Men's hair cut,JJ,60,0
+2018-05-10,May,Thursday,MONE01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-10,May,Thursday,STEP01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-10,May,Thursday,RODP01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-05-10,May,Thursday,NORL01,SHCW,Women's hair cut,JJ,82,0
+2018-05-10,May,Thursday,ROSD01,SHCW,Women's hair cut,JJ,82,0
+2018-05-10,May,Thursday,KALA01,SHCW,Women's hair cut,JJ,92,0
+2018-05-10,May,Thursday,BREH01,SHCW,Women's hair cut,JJ,102,0
+2018-05-10,May,Thursday,HOLS01,CALC,Accent lights and color,JOANNE,120,0
+2018-05-10,May,Thursday,BOES01,CALC,Accent lights and color,JOANNE,120,0
+2018-05-10,May,Thursday,REIC01,CHLFH,Highlights full,JOANNE,140,0
+2018-05-10,May,Thursday,KALA01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-10,May,Thursday,RODP01,CHLFH,Highlights full,JOANNE,150,1
+2018-05-10,May,Thursday,AINM01,SBD5+1,Blow dry bundle 5+1,HOUSE,230,0
+2018-05-10,May,Thursday,RODP01,CON,Consultation,JOANNE,0,1
+2018-05-11,May,Friday,REDM01,CON,Consultation,JJ,0,0
+2018-05-11,May,Friday,MURS01,SHCM,Men's hair cut,BECKY,5,0
+2018-05-11,May,Friday,COWL01,SMARTBOND,Smart Bond,JOANNE,25,0
+2018-05-11,May,Friday,LIMB01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-11,May,Friday,WARN01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-11,May,Friday,BROS02,SHCM,Men's hair cut,BECKY,30,0
+2018-05-11,May,Friday,WARK01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-11,May,Friday,KHAN01,SBD,Blowdry,BECKY,30,0
+2018-05-11,May,Friday,TIML01,SBD,Blowdry,JJ,32,0
+2018-05-11,May,Friday,GIEC01,SHCM,Men's hair cut,JJ,40,0
+2018-05-11,May,Friday,KIRR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-05-11,May,Friday,LEEO01,SBD,Blowdry,BECKY,45.26,1
+2018-05-11,May,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-05-11,May,Friday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-05-11,May,Friday,LEEO01,CTU,Color touch up,JOANNE,50,0
+2018-05-11,May,Friday,ARRM01,SBD,Blowdry,JJ,52,0
+2018-05-11,May,Friday,NGUS01,CTU,Color touch up,JOANNE,66.52,1
+2018-05-11,May,Friday,COWL01,SHCW,Women's hair cut,BECKY,70,0
+2018-05-11,May,Friday,COLG01,CTU,Color touch up,JOANNE,70,0
+2018-05-11,May,Friday,NOWT01,SHCW,Women's hair cut,JJ,82,0
+2018-05-11,May,Friday,GRAA01,SHCW,Women's hair cut,JJ,82,0
+2018-05-11,May,Friday,CHA*01,SHCW,Women's hair cut,JJ,82,0
+2018-05-11,May,Friday,NICL01,SHCW,Women's hair cut,JJ,82,0
+2018-05-11,May,Friday,NGUS01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-11,May,Friday,THOW01,SHCW,Women's hair cut,JJ,102,0
+2018-05-11,May,Friday,COWL01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-12,May,Saturday,JASA01,CON,Consultation,JJ,0,0
+2018-05-12,May,Saturday,PEEL01,SBD,Blowdry,SINEAD,30,0
+2018-05-12,May,Saturday,ROST01,SHCM,Men's hair cut,JJ,40,0
+2018-05-12,May,Saturday,TYRK01,SBD,Blowdry,SINEAD,40,0
+2018-05-12,May,Saturday,DONB01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-12,May,Saturday,SKUD01,SBD,Blowdry,BECKY,45.26,1
+2018-05-12,May,Saturday,PHIJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-12,May,Saturday,SARM01,SBD,Blowdry,SINEAD,50,0
+2018-05-12,May,Saturday,NELT01,SBD,Blowdry,SINEAD,50,0
+2018-05-12,May,Saturday,HUDM01,SBD,Blowdry,SINEAD,50,0
+2018-05-12,May,Saturday,STOD01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-12,May,Saturday,MARG01,SHCM,Men's hair cut,JJ,60,0
+2018-05-12,May,Saturday,MARM01,CFC,Color full color,JOANNE,65,0
+2018-05-12,May,Saturday,EZIR01,SHCW,Women's hair cut,JJ,82,0
+2018-05-12,May,Saturday,TINT02,SHCW,Women's hair cut,JJ,82,0
+2018-05-12,May,Saturday,LYL01,SHCW,Women's hair cut,JJ,82,0
+2018-05-12,May,Saturday,SARM01,CFC,Color full color,JOANNE,85,0
+2018-05-12,May,Saturday,TAYJ02,SHCW,Women's hair cut,JJ,92,0
+2018-05-12,May,Saturday,GOSD01,CHLPL,Highlights partial,JOANNE,130,0
+2018-05-12,May,Saturday,SMIS01,CHLFH,Highlights full,JOANNE,140,0
+2018-05-12,May,Saturday,DONB01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-05-12,May,Saturday,TYRK01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-12,May,Saturday,TAYJ02,CHLFH,Highlights full,JOANNE,150,0
+2018-05-12,May,Saturday,JASA01,SBD5+1,Blow dry bundle 5+1,HOUSE,260,0
+2018-05-12,May,Saturday,CASH01,CON,Consultation,JJ,0,1
+2018-05-15,May,Tuesday,MELE01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-15,May,Tuesday,MACR01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-15,May,Tuesday,BREF01,SHCM,Men's hair cut,JJ,40,0
+2018-05-15,May,Tuesday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-05-15,May,Tuesday,BURT01,CALC,Accent lights and color,JOANNE,45,0
+2018-05-15,May,Tuesday,BURT01,SHCM,Men's hair cut,JJ,50,0
+2018-05-15,May,Tuesday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-05-15,May,Tuesday,ROSM01,CTU,Color touch up,JOANNE,50,0
+2018-05-15,May,Tuesday,SARK01,SBD,Blowdry,JJ,52,0
+2018-05-15,May,Tuesday,MOLC01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-15,May,Tuesday,CHMY01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-15,May,Tuesday,ARAI01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-15,May,Tuesday,LUCL01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-15,May,Tuesday,SCHJ01,SHCM,Men's hair cut,JJ,60,0
+2018-05-15,May,Tuesday,MONL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-15,May,Tuesday,KUCM02,SHCW,Women's hair cut,JJ,82,0
+2018-05-15,May,Tuesday,RODP01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-15,May,Tuesday,WOOJ01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-15,May,Tuesday,SARK01,CHLPHC,Partial highlights and color,JOANNE,140,0
+2018-05-15,May,Tuesday,RODP01,CHLPL,Highlights partial,JOANNE,160,0
+2018-05-15,May,Tuesday,HENI01,CON,Consultation,JOANNE,0,1
+2018-05-16,May,Wednesday,RODP01,CON,Consultation,SINEAD,25,0
+2018-05-16,May,Wednesday,ELSM01,SBD,Blowdry,SINEAD,30,0
+2018-05-16,May,Wednesday,MACT01,SHCM,Men's hair cut,JJ,40,0
+2018-05-16,May,Wednesday,KUKK01,SBD,Blowdry,SINEAD,50,0
+2018-05-16,May,Wednesday,NELT01,SBD,Blowdry,SINEAD,50,0
+2018-05-16,May,Wednesday,SARA01,SHCM,Men's hair cut,JJ,60,0
+2018-05-16,May,Wednesday,REIL01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-16,May,Wednesday,CURK01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-16,May,Wednesday,LAMD01,SHCW,Women's hair cut,JJ,82,0
+2018-05-16,May,Wednesday,SCHH01,SHCW,Women's hair cut,JJ,102,0
+2018-05-16,May,Wednesday,BUSC01,SHCW,Women's hair cut,JJ,102,0
+2018-05-17,May,Thursday,HAMD01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-17,May,Thursday,ABL*01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-17,May,Thursday,PER*01,SBD,Blowdry,BECKY,30,0
+2018-05-17,May,Thursday,BUEM01,SBD,Blowdry,SINEAD,30,0
+2018-05-17,May,Thursday,BURL01,SBD,Blowdry,SINEAD,40,0
+2018-05-17,May,Thursday,NELT01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-17,May,Thursday,YATT01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-17,May,Thursday,HOLL01,SBD,Blowdry,SINEAD,50,0
+2018-05-17,May,Thursday,WOOD02,SBD,Blowdry,BECKY,50,0
+2018-05-17,May,Thursday,HILJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-17,May,Thursday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-05-17,May,Thursday,HILJ01,CMT,Color mini touch up,JOANNE,50,0
+2018-05-17,May,Thursday,PRIL01,SHCW,Women's hair cut,JJ,51,0
+2018-05-17,May,Thursday,HUDM01,SBD,Blowdry,JJ,52,0
+2018-05-17,May,Thursday,SHAA01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-17,May,Thursday,SIDA01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-17,May,Thursday,BHAB01,SDUD,Dry updo,BECKY,60,1
+2018-05-17,May,Thursday,STOS01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-17,May,Thursday,MORB01,CFC,Color full color,JOANNE,85,0
+2018-05-17,May,Thursday,GOSD01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-17,May,Thursday,DONB01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-17,May,Thursday,MANL01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-17,May,Thursday,CHUA01,SHCW,Women's hair cut,JJ,92,0
+2018-05-17,May,Thursday,OKEM01,SHCW,Women's hair cut,JJ,102,0
+2018-05-17,May,Thursday,MORB01,SHCW,Women's hair cut,JJ,102,0
+2018-05-17,May,Thursday,CHUA01,CALC,Accent lights and color,JOANNE,130,0
+2018-05-17,May,Thursday,LOCS01,CHLPL,Highlights partial,JOANNE,140,0
+2018-05-17,May,Thursday,BURL01,CHLPHC,Partial highlights and color,JOANNE,170,0
+2018-05-17,May,Thursday,DONB01,CCO,Color correction,JOANNE,205,1
+2018-05-18,May,Friday,MASA01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-18,May,Friday,DELC01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-18,May,Friday,PENM01,SBD,Blowdry,BECKY,50,0
+2018-05-18,May,Friday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-05-18,May,Friday,CORS02,SHCW,Women's hair cut,BECKY,60,0
+2018-05-18,May,Friday,OHAG01,SHCM,Men's hair cut,JJ,60,0
+2018-05-18,May,Friday,SAMJ01,SHCW,Women's hair cut,JJ,66.5,0
+2018-05-18,May,Friday,WOOD01,CTU,Color touch up,JOANNE,70,0
+2018-05-18,May,Friday,SIRM01,SHCW,Women's hair cut,BECKY,80,0
+2018-05-18,May,Friday,NICS01,SHCW,Women's hair cut,JJ,82,0
+2018-05-18,May,Friday,MESK01,SHCW,Women's hair cut,JJ,82,0
+2018-05-18,May,Friday,WOOD01,SHCW,Women's hair cut,JJ,102,0
+2018-05-18,May,Friday,ROBT01,CHLPHC,Partial highlights and color,JOANNE,140,0
+2018-05-18,May,Friday,SAMJ01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-18,May,Friday,DONB01,CBAL,Balayage,KELLY,155.56,1
+2018-05-19,May,Saturday,MCGM01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-19,May,Saturday,JONW01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-19,May,Saturday,JONE01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-19,May,Saturday,HASS01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-19,May,Saturday,OGOE01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-19,May,Saturday,BARE01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-19,May,Saturday,DANJ01,SBD,Blowdry,BECKY,50,0
+2018-05-19,May,Saturday,NIDN01,SBD,Blowdry,BECKY,50,0
+2018-05-19,May,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-05-19,May,Saturday,RUTR01,SBD,Blowdry,JJ,52,0
+2018-05-19,May,Saturday,RIZB01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-19,May,Saturday,RIZB01,CFC,Color full color,KELLY,55,0
+2018-05-19,May,Saturday,BARE01,CFC,Color full color,KELLY,65,0
+2018-05-19,May,Saturday,MCKS01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-19,May,Saturday,DANJ01,CTU,Color touch up,JOANNE,70,0
+2018-05-19,May,Saturday,NIDN01,CTU,Color touch up,JOANNE,70,0
+2018-05-19,May,Saturday,IORC01,SHCW,Women's hair cut,JJ,82,0
+2018-05-19,May,Saturday,DANG01,SHCW,Women's hair cut,JJ,82,0
+2018-05-19,May,Saturday,RUTR01,CFC,Color full color,JOANNE,85,0
+2018-05-19,May,Saturday,NELT01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-19,May,Saturday,LEIF01,SDUD,Dry updo,SINEAD,90,0
+2018-05-19,May,Saturday,LURM01,CALC,Accent lights and color,JOANNE,120,0
+2018-05-19,May,Saturday,MIRY01,CDPB,double process blonde,JOANNE,150,1
+2018-05-19,May,Saturday,HILJ01,CHLPHC,Partial highlights and color,JOANNE,158.18,1
+2018-05-19,May,Saturday,RONM01,CHLFHC,Full Highlights and color,JOANNE,160,0
+2018-05-22,May,Tuesday,CARB01,CON,Consultation,BECKY,0,0
+2018-05-22,May,Tuesday,ANDJ01,TRE 1,Treatments 1,KELLY,20,0
+2018-05-22,May,Tuesday,SHAI01,TRE 1,Treatments 1,JOANNE,20,0
+2018-05-22,May,Tuesday,DRAR01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-22,May,Tuesday,PN01,SHCM,Men's hair cut,KELLY,35,0
+2018-05-22,May,Tuesday,BORJ01,SHCM,Men's hair cut,JJ,40,0
+2018-05-22,May,Tuesday,KUKH01,SBD,Blowdry,BECKY,40,0
+2018-05-22,May,Tuesday,MOGS01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-22,May,Tuesday,ANDJ01,CT,Color toner,KELLY,45,0
+2018-05-22,May,Tuesday,HELJ01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-22,May,Tuesday,KUKK01,SBD,Blowdry,SINEAD,50,0
+2018-05-22,May,Tuesday,WOOJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-22,May,Tuesday,WONM02,SBD,Blowdry,JJ,52,0
+2018-05-22,May,Tuesday,HOLD01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-22,May,Tuesday,RIVA01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-22,May,Tuesday,DUFD01,SHCM,Men's hair cut,JJ,60,0
+2018-05-22,May,Tuesday,WIL*01,CTU,Color touch up,JOANNE,60,0
+2018-05-22,May,Tuesday,ANDJ01,SHCW,Women's hair cut,KELLY,65,0
+2018-05-22,May,Tuesday,ERVA01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-22,May,Tuesday,WOOJ01,CTU,Color touch up,JOANNE,70,0
+2018-05-22,May,Tuesday,SHAI01,SHCW,Women's hair cut,SINEAD,80,0
+2018-05-22,May,Tuesday,SHAL01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-22,May,Tuesday,HIMB01,SHCW,Women's hair cut,JJ,88.44,1
+2018-05-22,May,Tuesday,WIL*01,SHCW,Women's hair cut,JJ,92,0
+2018-05-22,May,Tuesday,WARG01,SHCW,Women's hair cut,JJ,102,0
+2018-05-22,May,Tuesday,DAV*01,SHCW,Women's hair cut,JJ,102,0
+2018-05-22,May,Tuesday,SHAI01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-22,May,Tuesday,KUKH01,CHLPL,Highlights partial,JOANNE,150,0
+2018-05-22,May,Tuesday,ANDJ01,CBAL,Balayage,KELLY,150,0
+2018-05-23,May,Wednesday,SINS02,SHCM,Men's hair cut,KELLY,30,0
+2018-05-23,May,Wednesday,PARJ01,SHCM,Men's hair cut,KELLY,35,0
+2018-05-23,May,Wednesday,KOSA01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-23,May,Wednesday,NELT01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-23,May,Wednesday,COLG01,SBD,Blowdry,SINEAD,50,0
+2018-05-23,May,Wednesday,NELT01,SBD,Blowdry,SINEAD,50,0
+2018-05-23,May,Wednesday,BERH01,SBD,Blowdry,JJ,52,0
+2018-05-23,May,Wednesday,COXH01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-23,May,Wednesday,DRAA01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-23,May,Wednesday,POOD01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-23,May,Wednesday,PER*01,SBD,Blowdry,KELLY,55,0
+2018-05-23,May,Wednesday,PENM01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-05-23,May,Wednesday,SLUS01,SHCM,Men's hair cut,JJ,60,0
+2018-05-23,May,Wednesday,HENB01,SHCM,Men's hair cut,JJ,60,0
+2018-05-23,May,Wednesday,POTR01,SHCM,Men's hair cut,JJ,60,0
+2018-05-23,May,Wednesday,CLEE01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-23,May,Wednesday,SHEK01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-23,May,Wednesday,WALS01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-23,May,Wednesday,MENE01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-05-23,May,Wednesday,SAVC01,SHCW,Women's hair cut,JJ,82,0
+2018-05-23,May,Wednesday,VELA01,SHCW,Women's hair cut,JJ,82,0
+2018-05-23,May,Wednesday,GRIA01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-23,May,Wednesday,RICP01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-23,May,Wednesday,.L01,SHCW,Women's hair cut,JJ,92,0
+2018-05-23,May,Wednesday,DOLD01,SHCW,Women's hair cut,JJ,102,0
+2018-05-23,May,Wednesday,.L01,CHLPHC,Partial highlights and color,JOANNE,170,0
+2018-05-24,May,Thursday,THOJ01,TRE 1,Treatments 1,SINEAD,20,1
+2018-05-24,May,Thursday,HENA01,SMARTBOND,Smart Bond,JOANNE,20,0
+2018-05-24,May,Thursday,POLB01,SBD,Blowdry,BECKY,30,0
+2018-05-24,May,Thursday,AVPR01,SBD,Blowdry,BECKY,30,0
+2018-05-24,May,Thursday,MCCB01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-24,May,Thursday,MAKM01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-24,May,Thursday,BENC01,CFC,Color full color,JOANNE,65,0
+2018-05-24,May,Thursday,HENA01,SHCW,Women's hair cut,BECKY,70,0
+2018-05-24,May,Thursday,HOAB01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-24,May,Thursday,THOJ01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-24,May,Thursday,MOIB01,CTU,Color touch up,JOANNE,70,0
+2018-05-24,May,Thursday,HOLL01,CTU,Color touch up,JOANNE,70,0
+2018-05-24,May,Thursday,MASA01,CFC,Color full color,JOANNE,77.06,1
+2018-05-24,May,Thursday,MAPJ01,SHCW,Women's hair cut,JJ,82,0
+2018-05-24,May,Thursday,HIMB01,SHCW,Women's hair cut,JJ,82,0
+2018-05-24,May,Thursday,MOIB01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-24,May,Thursday,HOLL01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-24,May,Thursday,MOLA01,SHCW,Women's hair cut,JJ,102,0
+2018-05-24,May,Thursday,RUTA01,SHCW,Women's hair cut,JJ,102,0
+2018-05-24,May,Thursday,HENA01,CALC,Accent lights and color,JOANNE,130,0
+2018-05-24,May,Thursday,RUTA01,CALC,Accent lights and color,JOANNE,140,0
+2018-05-24,May,Thursday,JOHJ01,CHLPL,Highlights partial,JOANNE,160,0
+2018-05-25,May,Friday,INFB01,CON,Consultation,KELLY,0,0
+2018-05-25,May,Friday,APTM01,SHCM,Men's hair cut,JJ,30,0
+2018-05-25,May,Friday,CARK01,SBD,Blowdry,KELLY,35,0
+2018-05-25,May,Friday,WEIS01,SHCM,Men's hair cut,JJ,40,0
+2018-05-25,May,Friday,CARK01,CTU,Color touch up,KELLY,40,0
+2018-05-25,May,Friday,KLEA01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-25,May,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-05-25,May,Friday,PENM01,SBD,Blowdry,BECKY,50,0
+2018-05-25,May,Friday,PENM01,CMT,Color mini touch up,JOANNE,50,0
+2018-05-25,May,Friday,HUDM01,SBD,Blowdry,JJ,52,0
+2018-05-25,May,Friday,IADA01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-25,May,Friday,MER*01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-25,May,Friday,HIGA01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-25,May,Friday,KASJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-25,May,Friday,LYOH01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-25,May,Friday,COWS01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-25,May,Friday,GUBD01,SHCM,Men's hair cut,JJ,60,0
+2018-05-25,May,Friday,CARS01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-05-25,May,Friday,DORR01,SHCW,Women's hair cut,JJ,82,0
+2018-05-25,May,Friday,KINN01,SHCW,Women's hair cut,JJ,102,0
+2018-05-25,May,Friday,WYRC01,SHCW,Women's hair cut,JJ,102,0
+2018-05-25,May,Friday,WAGW01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-05-26,May,Saturday,KRAV01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-05-26,May,Saturday,RADP01,SHCM,Men's hair cut,KELLY,35,0
+2018-05-26,May,Saturday,BRAN01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-26,May,Saturday,FIGM01,CTU,Color touch up,KELLY,45,0
+2018-05-26,May,Saturday,SASM01,CT,Color toner,KELLY,45,0
+2018-05-26,May,Saturday,SKUD01,SBD,Blowdry,BECKY,45.26,1
+2018-05-26,May,Saturday,HUDM01,SBD,Blowdry,BECKY,45.26,1
+2018-05-26,May,Saturday,RODP01,SBD,Blowdry,SINEAD,50,0
+2018-05-26,May,Saturday,HILJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-26,May,Saturday,NELT01,SBD,Blowdry,SINEAD,50,0
+2018-05-26,May,Saturday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-05-26,May,Saturday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-05-26,May,Saturday,SPEK01,CTU,Color touch up,JOANNE,50,0
+2018-05-26,May,Saturday,COLG01,CMT,Color mini touch up,JOANNE,50,0
+2018-05-26,May,Saturday,WOOJ01,SBD,Blowdry,JJ,52,0
+2018-05-26,May,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-05-26,May,Saturday,SASM01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-26,May,Saturday,ARRM01,SBD,Blowdry,KELLY,55,0
+2018-05-26,May,Saturday,PATB01,SHCW,Women's hair cut,BECKY,60,0
+2018-05-26,May,Saturday,BERI01,SHCM,Men's hair cut,JJ,60,0
+2018-05-26,May,Saturday,RETM01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-26,May,Saturday,KRAV01,SHCW,Women's hair cut,KELLY,75,0
+2018-05-26,May,Saturday,FLAS01,CFC,Color full color,JOANNE,75,0
+2018-05-26,May,Saturday,FLAS01,SHCW,Women's hair cut,SINEAD,80,0
+2018-05-26,May,Saturday,FLAC01,SHCW,Women's hair cut,SINEAD,80,0
+2018-05-26,May,Saturday,KRAV01,CDPB,double process blonde,KELLY,80,0
+2018-05-26,May,Saturday,WILT01,SHCW,Women's hair cut,JJ,82,0
+2018-05-26,May,Saturday,LANI01,SHCW,Women's hair cut,JJ,82,0
+2018-05-26,May,Saturday,MAUA01,SHCW,Women's hair cut,JJ,82,0
+2018-05-26,May,Saturday,HENI01,SHCW,Women's hair cut,JJ,102,0
+2018-05-26,May,Saturday,FLAC01,CHLFH,Highlights full,JOANNE,170,0
+2018-05-26,May,Saturday,HENI01,CBAL,Balayage,JOANNE,180,0
+2018-05-29,May,Tuesday,HILD01,SMARTBOND,Smart Bond,JOANNE,5,0
+2018-05-29,May,Tuesday,LEB01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-05-29,May,Tuesday,STEL02,SHCM,Men's hair cut,BECKY,30,0
+2018-05-29,May,Tuesday,BUFJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-29,May,Tuesday,ANDM01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-29,May,Tuesday,VANJ01,SHCC,Children (under 12),BECKY,30,0
+2018-05-29,May,Tuesday,MULN01,SBD,Blowdry,JJ,32,0
+2018-05-29,May,Tuesday,BUFW01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-29,May,Tuesday,LAWJ01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-29,May,Tuesday,STEM02,SHCM,Men's hair cut,JJ,40,0
+2018-05-29,May,Tuesday,ZUKS01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-05-29,May,Tuesday,LEB01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-29,May,Tuesday,STEJ01,CT,Color toner,KELLY,45,0
+2018-05-29,May,Tuesday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-05-29,May,Tuesday,NELT01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-29,May,Tuesday,HILD01,SBD,Blowdry,BECKY,45.26,1
+2018-05-29,May,Tuesday,WALC01,SBD,Blowdry,BECKY,45.26,1
+2018-05-29,May,Tuesday,SCHJ01,SHCM,Men's hair cut,JJ,49.48,1
+2018-05-29,May,Tuesday,ZUKS01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-29,May,Tuesday,STEJ01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-29,May,Tuesday,THOA01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-29,May,Tuesday,OWED01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-29,May,Tuesday,JOHD01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-29,May,Tuesday,AYKS01,SHCW,Women's hair cut,KELLY,65,0
+2018-05-29,May,Tuesday,WALC01,CFC,Color full color,JOANNE,65,0
+2018-05-29,May,Tuesday,STEJ01,CFC,Color full color,KELLY,65,0
+2018-05-29,May,Tuesday,DAWP01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-29,May,Tuesday,DODK01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-29,May,Tuesday,KEN*01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-05-29,May,Tuesday,KEIS01,SHCW,Women's hair cut,BECKY,80,0
+2018-05-29,May,Tuesday,ROWD01,SHCW,Women's hair cut,BECKY,80,0
+2018-05-29,May,Tuesday,DHAL01,SHCW,Women's hair cut,JJ,82,0
+2018-05-29,May,Tuesday,KEN*01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-29,May,Tuesday,PUGS01,SHCW,Women's hair cut,JJ,92,0
+2018-05-29,May,Tuesday,WEIA01,SHCW,Women's hair cut,JJ,102,0
+2018-05-29,May,Tuesday,PUGS01,CALC,Accent lights and color,JOANNE,130,0
+2018-05-29,May,Tuesday,AYKS01,CHLPL,Highlights partial,JOANNE,135,0
+2018-05-29,May,Tuesday,HILD01,CHLPHC,Partial highlights and color,JOANNE,180,0
+2018-05-29,May,Tuesday,KEN*01,CBAL,Balayage,JOANNE,192.5,1
+2018-05-30,May,Wednesday,FREJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-05-30,May,Wednesday,MORD01,SHCM,Men's hair cut,KELLY,35,0
+2018-05-30,May,Wednesday,HOUC01,SHCW,Women's hair cut,KELLY,45,0
+2018-05-30,May,Wednesday,POTR01,SHCM,Men's hair cut,JJ,49.48,1
+2018-05-30,May,Wednesday,KUKK01,SBD,Blowdry,SINEAD,50,0
+2018-05-30,May,Wednesday,SPRK01,SBD,Blowdry,BECKY,50,0
+2018-05-30,May,Wednesday,DACJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-30,May,Wednesday,NELT01,SBD,Blowdry,SINEAD,50,0
+2018-05-30,May,Wednesday,BREM01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-30,May,Wednesday,GALB01,SHCM,Men's hair cut,JJ,60,0
+2018-05-30,May,Wednesday,SLEA01,SHCM,Men's hair cut,JJ,60,0
+2018-05-30,May,Wednesday,MAEJ01,CTU,Color touch up,JOANNE,60,0
+2018-05-30,May,Wednesday,CHUH01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-30,May,Wednesday,MOIB01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-05-30,May,Wednesday,MOHR01,SHCW,Women's hair cut,KELLY,75,0
+2018-05-30,May,Wednesday,DEK01,SHCW,Women's hair cut,JJ,82,0
+2018-05-30,May,Wednesday,BALJ01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-30,May,Wednesday,BOSJ01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-30,May,Wednesday,JOHJ01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-30,May,Wednesday,MAEJ01,SHCW,Women's hair cut,JJ,92,0
+2018-05-30,May,Wednesday,ESKR01,SHCW,Women's hair cut,JJ,102,0
+2018-05-30,May,Wednesday,SPRK01,CHLPHC,Partial highlights and color,JOANNE,180,0
+2018-05-30,May,Wednesday,BROS01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-05-30,May,Wednesday,BOYL01,CON,Consultation,SINEAD,8.33,1
+2018-05-31,May,Thursday,COWS01,TRE 1,Treatments 1,JOANNE,5,0
+2018-05-31,May,Thursday,OGRS01,SMARTBOND,Smart Bond,JOANNE,25,0
+2018-05-31,May,Thursday,PAUB01,SMARTBOND,Smart Bond,KELLY,30,0
+2018-05-31,May,Thursday,STEK01,SBD,Blowdry,BECKY,30,0
+2018-05-31,May,Thursday,MACK01,SHCM,Men's hair cut,SINEAD,35,0
+2018-05-31,May,Thursday,STED01,SBD,Blowdry,KELLY,35,0
+2018-05-31,May,Thursday,HAMN01,SBD,Blowdry,BECKY,40,0
+2018-05-31,May,Thursday,JOHD01,SHCM,Men's hair cut,SINEAD,41.41,1
+2018-05-31,May,Thursday,PAUB01,CT,Color toner,KELLY,45,0
+2018-05-31,May,Thursday,HOLL01,SBD,Blowdry,SINEAD,45.11,1
+2018-05-31,May,Thursday,HILD01,SBD,Blowdry,KELLY,45.64,1
+2018-05-31,May,Thursday,DOWR01,SBD,Blowdry,KELLY,45.64,1
+2018-05-31,May,Thursday,REIM01,SHCM,Men's hair cut,BECKY,50,0
+2018-05-31,May,Thursday,HOLL01,SBD,Blowdry,SINEAD,50,0
+2018-05-31,May,Thursday,CHUJ01,SBD,Blowdry,SINEAD,50,0
+2018-05-31,May,Thursday,ELSM01,SBD,Blowdry,BECKY,50,0
+2018-05-31,May,Thursday,DOWR01,SBD,Blowdry,JJ,52,0
+2018-05-31,May,Thursday,LEEJ01,SHCW,Women's hair cut,KELLY,55,0
+2018-05-31,May,Thursday,IRWE01,SHCM,Men's hair cut,SINEAD,55,0
+2018-05-31,May,Thursday,LYNG01,SHCM,Men's hair cut,JJ,60,0
+2018-05-31,May,Thursday,WAIS01,SHCW,Women's hair cut,SINEAD,70,0
+2018-05-31,May,Thursday,IRWE01,CTU,Color touch up,JOANNE,70,0
+2018-05-31,May,Thursday,HOLG01,SHCW,Women's hair cut,KELLY,75,0
+2018-05-31,May,Thursday,HAMN01,CFC,Color full color,JOANNE,75,0
+2018-05-31,May,Thursday,CORS02,SHCW,Women's hair cut,BECKY,80,0
+2018-05-31,May,Thursday,PER*01,SHCW,Women's hair cut,JJ,82,0
+2018-05-31,May,Thursday,SMIC01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-31,May,Thursday,YOUS01,SHCW,Women's hair cut,SINEAD,90,0
+2018-05-31,May,Thursday,WILS01,SHCW,Women's hair cut,JJ,102,0
+2018-05-31,May,Thursday,LEVL01,SHCW,Women's hair cut,JJ,102,0
+2018-05-31,May,Thursday,GELK01,SHCW,Women's hair cut,JJ,102,0
+2018-05-31,May,Thursday,MCGA01,SHCW,Women's hair cut,JJ,102,0
+2018-05-31,May,Thursday,YOUS01,CALC,Accent lights and color,JOANNE,140,0
+2018-05-31,May,Thursday,OGRS01,CDPB,double process blonde,JOANNE,150,0
+2018-05-31,May,Thursday,PAUB01,CBAL,Balayage,KELLY,150,0
+2018-05-31,May,Thursday,PAUB01,CBAL,Balayage,KELLY,155.56,1
+2018-05-31,May,Thursday,HILD01,CHLPHC,Partial highlights and color,JOANNE,158.18,1
+2018-05-31,May,Thursday,HOLL01,CHLPHC,Partial highlights and color,JOANNE,158.18,1
+2018-05-31,May,Thursday,COWS01,CBAL,Balayage,JOANNE,200,0
+2018-05-31,May,Thursday,BISD01,CON,Consultation,SINEAD,8.33,1
+2018-05-31,May,Thursday,ERWS01,CON,Consultation,JJ,0,1
+2018-05-31,May,Thursday,MANL01,CON,Consultation,SINEAD,8.33,1
+2018-06-01,June,Friday,NADS01,SHCW,Women's hair cut,JJ,42,0
+2018-06-01,June,Friday,STEB01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-01,June,Friday,NICP01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-01,June,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-06-01,June,Friday,NADS01,SBD,Blowdry,KELLY,50,0
+2018-06-01,June,Friday,FZUA01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-01,June,Friday,PAIK01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-01,June,Friday,MCLI01,SHCM,Men's hair cut,JJ,60,0
+2018-06-01,June,Friday,SCHP01,SHCW,Women's hair cut,BECKY,70,0
+2018-06-01,June,Friday,MUMK01,CTU,Color touch up,JOANNE,70,0
+2018-06-01,June,Friday,MUMK01,SHCW,Women's hair cut,JJ,75,0
+2018-06-01,June,Friday,NADS01,CFC,Color full color,JOANNE,75,0
+2018-06-01,June,Friday,GOUE01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-01,June,Friday,GOSD01,SHCW,Women's hair cut,JJ,82,0
+2018-06-01,June,Friday,KINN01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-01,June,Friday,JARM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-01,June,Friday,PUGS01,SDUD,Dry updo,JJ,102,0
+2018-06-01,June,Friday,SCHP01,CALC,Accent lights and color,JOANNE,110,0
+2018-06-01,June,Friday,DONB01,SMO,Smoothing treatment,BECKY,270,1
+2018-06-01,June,Friday,CYRA01,CON,Consultation,BECKY,0,1
+2018-06-02,June,Saturday,IRWE01,CON,Consultation,JOANNE,0,1
+2018-06-02,June,Saturday,MAEJ01,CFC,Color full color,BECKY,0,1
+2018-06-02,June,Saturday,METJ01,TRE 1,Treatments 1,BECKY,20,0
+2018-06-02,June,Saturday,RODP01,TRE 1,Treatments 1,SINEAD,20,0
+2018-06-02,June,Saturday,PEDM02,SHCM,Men's hair cut,BECKY,30,0
+2018-06-02,June,Saturday,ABLD01,SHCM,Men's hair cut,BECKY,30,0
+2018-06-02,June,Saturday,FERK01,SBD,Blowdry,JJ,32,0
+2018-06-02,June,Saturday,BURK01,SBD,Blowdry,KELLY,35,0
+2018-06-02,June,Saturday,PURD01,SHCM,Men's hair cut,JJ,40,0
+2018-06-02,June,Saturday,JAYM01,CT,Color toner,KELLY,43,1
+2018-06-02,June,Saturday,VARL01,CTU,Color touch up,KELLY,45,0
+2018-06-02,June,Saturday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-06-02,June,Saturday,RODP01,SBD,Blowdry,SINEAD,50,0
+2018-06-02,June,Saturday,BANR01,SBD,Blowdry,BECKY,50,0
+2018-06-02,June,Saturday,WOOJ01,SBD,Blowdry,SINEAD,50,0
+2018-06-02,June,Saturday,DHAS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-02,June,Saturday,BUDG02,SHCM,Men's hair cut,SINEAD,55,0
+2018-06-02,June,Saturday,HUDM01,SBD,Blowdry,KELLY,55,0
+2018-06-02,June,Saturday,JAYM01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-02,June,Saturday,YANJ01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-02,June,Saturday,METJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-02,June,Saturday,PEDM01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-02,June,Saturday,HOFA01,SHCM,Men's hair cut,JJ,60,0
+2018-06-02,June,Saturday,RUMJ02,CTU,Color touch up,JOANNE,60,0
+2018-06-02,June,Saturday,VARL01,CFC,Color full color,KELLY,63.13,1
+2018-06-02,June,Saturday,PHIC01,SHCW,Women's hair cut,SINEAD,70,0
+2018-06-02,June,Saturday,CULT01,SHCW,Women's hair cut,SINEAD,70,0
+2018-06-02,June,Saturday,BANR01,CTU,Color touch up,JOANNE,70,0
+2018-06-02,June,Saturday,BROT01,SHCW,Women's hair cut,SINEAD,74.67,1
+2018-06-02,June,Saturday,VARL01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-02,June,Saturday,MAF*01,SHCW,Women's hair cut,JJ,82,0
+2018-06-02,June,Saturday,MILE01,SHCW,Women's hair cut,SINEAD,90,0
+2018-06-02,June,Saturday,RUMJ02,SHCW,Women's hair cut,JJ,92,0
+2018-06-02,June,Saturday,SASM01,CBAL,Balayage,KELLY,155.56,1
+2018-06-02,June,Saturday,HUDM01,CHLPL,Highlights partial,JOANNE,160,0
+2018-06-02,June,Saturday,STUM01,CHLPHC,Partial highlights and color,JOANNE,160,0
+2018-06-02,June,Saturday,KIRR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-06-02,June,Saturday,OHLJ01,CFC,Color full color,JOANNE,77.06,1
+2018-06-03,June,Sunday,NELT01,SBD,Blowdry,BECKY,50,0
+2018-06-03,June,Sunday,MICM01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-03,June,Sunday,INGS01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-03,June,Sunday,COMJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-03,June,Sunday,SENM01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-03,June,Sunday,WONM02,SHCW,Women's hair cut,JJ,102,0
+2018-06-03,June,Sunday,CZES01,SMO,Smoothing treatment,BECKY,240,0
+2018-06-05,June,Tuesday,AITS01,SHCM,Men's hair cut,JJ,40,0
+2018-06-05,June,Tuesday,KUKK01,SBD,Blowdry,BECKY,45.26,1
+2018-06-05,June,Tuesday,BROS01,SBD,Blowdry,BECKY,45.26,1
+2018-06-05,June,Tuesday,HENB01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-05,June,Tuesday,GRIP01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-05,June,Tuesday,YATT01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-05,June,Tuesday,WRI*01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-05,June,Tuesday,LEHJ01,SHCM,Men's hair cut,JJ,50,0
+2018-06-05,June,Tuesday,FINW01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-05,June,Tuesday,TAGS02,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-05,June,Tuesday,SIDA01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-05,June,Tuesday,THOW02,SHCM,Men's hair cut,JJ,60,0
+2018-06-05,June,Tuesday,GORM01,CTU,Color touch up,JOANNE,60,0
+2018-06-05,June,Tuesday,TAGS02,CFC,Color full color,KELLY,63.13,1
+2018-06-05,June,Tuesday,GORM01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-05,June,Tuesday,BROA01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-05,June,Tuesday,HEIM01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-05,June,Tuesday,MARK01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-05,June,Tuesday,MARR01,SHCW,Women's hair cut,JJ,82,0
+2018-06-05,June,Tuesday,MULN01,SDUD,Dry updo,JJ,88.67,1
+2018-06-05,June,Tuesday,BOWV01,SHCW,Women's hair cut,JJ,102,0
+2018-06-05,June,Tuesday,REDM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-05,June,Tuesday,CASH01,SHCW,Women's hair cut,JJ,102,0
+2018-06-05,June,Tuesday,TRAS01,CHLPHC,Partial highlights and color,JOANNE,130,0
+2018-06-05,June,Tuesday,DONB01,CHLPHC,Partial highlights and color,JOANNE,158.18,1
+2018-06-05,June,Tuesday,ASIS01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-05,June,Tuesday,BISS01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-06-05,June,Tuesday,BISS01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-06-06,June,Wednesday,CLAJ01,SBD,Blowdry,JJ,32,0
+2018-06-06,June,Wednesday,VERD01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-06,June,Wednesday,AMAK01,SBD,Blowdry,KELLY,35,0
+2018-06-06,June,Wednesday,WEES01,SHCM,Men's hair cut,JJ,40,0
+2018-06-06,June,Wednesday,TRUA01,SHCM,Men's hair cut,JJ,40,0
+2018-06-06,June,Wednesday,NGUJ01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-06,June,Wednesday,MCGA01,CAS,Color additional service,JOANNE,50,0
+2018-06-06,June,Wednesday,HOLL01,SBD,Blowdry,JJ,52,0
+2018-06-06,June,Wednesday,ANDE01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-06,June,Wednesday,LEEK01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-06,June,Wednesday,COLE01,SHCM,Men's hair cut,JJ,60,0
+2018-06-06,June,Wednesday,COLB01,SHCM,Men's hair cut,JJ,60,0
+2018-06-06,June,Wednesday,GRET01,SHCM,Men's hair cut,JJ,60,0
+2018-06-06,June,Wednesday,NGUJ01,SMARTBOND,Smart Bond,KELLY,75,0
+2018-06-06,June,Wednesday,FEDS01,SHCW,Women's hair cut,JJ,82,0
+2018-06-06,June,Wednesday,CHRJ01,SHCW,Women's hair cut,JJ,82,0
+2018-06-06,June,Wednesday,DANJ03,SHCW,Women's hair cut,JJ,82,0
+2018-06-06,June,Wednesday,SCOL01,SHCW,Women's hair cut,JJ,90,0
+2018-06-06,June,Wednesday,NGUJ01,CDPB,double process blonde,KELLY,115,1
+2018-06-06,June,Wednesday,NGUJ01,CDPB,double process blonde,KELLY,180,0
+2018-06-07,June,Thursday,BIZK01,SBD,Blowdry,JJ,32,0
+2018-06-07,June,Thursday,KUKK01,SBD,Blowdry,JJ,42,0
+2018-06-07,June,Thursday,HERD01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-07,June,Thursday,COLB01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-07,June,Thursday,NELT01,SBD,Blowdry,JJ,52,0
+2018-06-07,June,Thursday,WOOD02,SBD,Blowdry,JJ,52,0
+2018-06-07,June,Thursday,WOOJ01,SBD,Blowdry,JJ,52,0
+2018-06-07,June,Thursday,ALCV01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-07,June,Thursday,CLUS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-07,June,Thursday,SWAM01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-07,June,Thursday,BROF01,SBD,Blowdry,KELLY,55,0
+2018-06-07,June,Thursday,POLB01,SBD,Blowdry,KELLY,55,0
+2018-06-07,June,Thursday,ALCV01,CFC,Color full color,KELLY,63.13,1
+2018-06-07,June,Thursday,PENM01,CTU,Color touch up,JOANNE,70,0
+2018-06-07,June,Thursday,BROA01,CTU,Color touch up,JOANNE,70,0
+2018-06-07,June,Thursday,WINJ01,SHCW,Women's hair cut,JJ,82,0
+2018-06-07,June,Thursday,KOOM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-07,June,Thursday,PENM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-07,June,Thursday,BROF01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-07,June,Thursday,WOOJ01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-07,June,Thursday,KUKK01,CHLPL,Highlights partial,JOANNE,150,0
+2018-06-07,June,Thursday,APPS01,SBD,Blowdry,KELLY,45.64,1
+2018-06-08,June,Friday,ARRM01,SBD,Blowdry,KELLY,45,0
+2018-06-08,June,Friday,COLG01,SBD,Blowdry,JJ,52,0
+2018-06-08,June,Friday,REIL01,SBD,Blowdry,JJ,52,0
+2018-06-08,June,Friday,NGC01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-08,June,Friday,MERN01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-08,June,Friday,CALC01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-08,June,Friday,ZIMJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-08,June,Friday,SINS01,SHCM,Men's hair cut,JJ,60,0
+2018-06-08,June,Friday,MARO01,SDUD,Dry updo,KELLY,60,0
+2018-06-08,June,Friday,LUL01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-08,June,Friday,ARRM01,CFC,Color full color,JOANNE,75,0
+2018-06-08,June,Friday,CLAM01,SHCW,Women's hair cut,JJ,82,0
+2018-06-08,June,Friday,MALJ01,SHCW,Women's hair cut,JJ,82,0
+2018-06-08,June,Friday,STOK02,SHCW,Women's hair cut,JJ,82,0
+2018-06-08,June,Friday,BEAA02,SHCW,Women's hair cut,JJ,82,0
+2018-06-08,June,Friday,NICM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-08,June,Friday,SARK01,SHCW,Women's hair cut,JJ,102,0
+2018-06-08,June,Friday,BOES01,CHLPL,Highlights partial,JOANNE,120,0
+2018-06-08,June,Friday,BOES01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-06-08,June,Friday,DUFD01,CON,Consultation,JJ,0,1
+2018-06-09,June,Saturday,PEDM01,CON,Consultation,JJ,0,0
+2018-06-09,June,Saturday,CHOT01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-09,June,Saturday,OBRK01,SBD,Blowdry,KELLY,35,0
+2018-06-09,June,Saturday,CHOT01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-09,June,Saturday,YANJ01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-09,June,Saturday,CAND01,CCAMO,Men's camo color,JJ,45,0
+2018-06-09,June,Saturday,LEAS01,CTU,Color touch up,JOANNE,50,0
+2018-06-09,June,Saturday,HUDM01,SBD,Blowdry,JJ,52,0
+2018-06-09,June,Saturday,BAIS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-09,June,Saturday,CHAD01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-09,June,Saturday,MARR02,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-09,June,Saturday,CAND01,SHCM,Men's hair cut,JJ,60,0
+2018-06-09,June,Saturday,KUZD01,CTU,Color touch up,JOANNE,60,0
+2018-06-09,June,Saturday,FRAL01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-09,June,Saturday,KUZD01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-09,June,Saturday,ERWS01,CTU,Color touch up,JOANNE,66.52,1
+2018-06-09,June,Saturday,KOSI01,CTU,Color touch up,JOANNE,70,0
+2018-06-09,June,Saturday,FRAL01,CFC,Color full color,JOANNE,75,0
+2018-06-09,June,Saturday,NEMM01,SHCW,Women's hair cut,JJ,82,0
+2018-06-09,June,Saturday,ERWS01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-09,June,Saturday,JASA01,SHCW,Women's hair cut,JJ,102,0
+2018-06-09,June,Saturday,KRIJ01,SHCW,Women's hair cut,JJ,102,0
+2018-06-09,June,Saturday,GALG01,SHCW,Women's hair cut,JJ,102,0
+2018-06-09,June,Saturday,KOSI01,SHCW,Women's hair cut,JJ,102,0
+2018-06-09,June,Saturday,CHAD01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-06-12,June,Tuesday,ALCV01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-12,June,Tuesday,ALCV01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-12,June,Tuesday,SCHJ01,CCAMO,Men's camo color,JJ,32.08,1
+2018-06-12,June,Tuesday,LEL01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-12,June,Tuesday,ALCV01,CT,Color toner,KELLY,45,0
+2018-06-12,June,Tuesday,SCHJ01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-12,June,Tuesday,PER*01,SBD,Blowdry,JJ,52,0
+2018-06-12,June,Tuesday,NELT01,SBD,Blowdry,JJ,52,0
+2018-06-12,June,Tuesday,MCCK01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-12,June,Tuesday,LEEP01,SHCM,Men's hair cut,JJ,60,0
+2018-06-12,June,Tuesday,PIPJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-12,June,Tuesday,MORB01,CTU,Color touch up,JOANNE,70,0
+2018-06-12,June,Tuesday,KULR01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-12,June,Tuesday,DAJR01,CFC,Color full color,JOANNE,75,0
+2018-06-12,June,Tuesday,TAYL02,SHCW,Women's hair cut,JJ,82,0
+2018-06-12,June,Tuesday,DAJR01,SHCW,Women's hair cut,JJ,92,0
+2018-06-12,June,Tuesday,GIAL01,SHCW,Women's hair cut,JJ,92,0
+2018-06-12,June,Tuesday,MORB01,SHCW,Women's hair cut,JJ,102,0
+2018-06-12,June,Tuesday,LINM02,SHCW,Women's hair cut,JJ,102,0
+2018-06-12,June,Tuesday,GIAL01,CHLPL,Highlights partial,JOANNE,150,0
+2018-06-12,June,Tuesday,CLAM01,CHLPHC,Partial highlights and color,JOANNE,160,0
+2018-06-12,June,Tuesday,ALCV01,CBAL,Balayage,KELLY,170,0
+2018-06-13,June,Wednesday,MAKP01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-13,June,Wednesday,WICJ01,SHCM,Men's hair cut,JJ,40,0
+2018-06-13,June,Wednesday,BELK01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-13,June,Wednesday,ELSM01,SBD,Blowdry,KELLY,55,0
+2018-06-13,June,Wednesday,WARN01,SHCM,Men's hair cut,JJ,60,0
+2018-06-13,June,Wednesday,NEEL01,CTU,Color touch up,JOANNE,70,0
+2018-06-13,June,Wednesday,LIND01,CFC,Color full color,JOANNE,75,0
+2018-06-13,June,Wednesday,MINA01,SHCW,Women's hair cut,JJ,82,0
+2018-06-13,June,Wednesday,COLJ02,SHCW,Women's hair cut,JJ,82,0
+2018-06-13,June,Wednesday,LIND01,SHCW,Women's hair cut,JJ,92,0
+2018-06-13,June,Wednesday,FELH01,SHCW,Women's hair cut,JJ,102,0
+2018-06-13,June,Wednesday,NEEL01,SHCW,Women's hair cut,JJ,102,0
+2018-06-13,June,Wednesday,SHIG01,SHCW,Women's hair cut,JJ,102,0
+2018-06-13,June,Wednesday,SHIG01,CHLPL,Highlights partial,JOANNE,140,0
+2018-06-14,June,Thursday,CAYK01,TRE 1,Treatments 1,JOANNE,20,0
+2018-06-14,June,Thursday,STAD01,MISC,miscellaneous,KELLY,25,0
+2018-06-14,June,Thursday,TOMV01,SBD,Blowdry,JJ,32,0
+2018-06-14,June,Thursday,MCNR01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-14,June,Thursday,?A01,SBD,Blowdry,KELLY,35,0
+2018-06-14,June,Thursday,FAUA01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-14,June,Thursday,FAUA01,CT,Color toner,KELLY,45,0
+2018-06-14,June,Thursday,HOLL01,SBD,Blowdry,BECKY,45.26,1
+2018-06-14,June,Thursday,BROS01,SBD,Blowdry,BECKY,45.26,1
+2018-06-14,June,Thursday,SHAA01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-14,June,Thursday,FLAD01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-14,June,Thursday,KUKK01,SBD,Blowdry,BECKY,50,0
+2018-06-14,June,Thursday,CAYK01,SBD,Blowdry,JJ,52,0
+2018-06-14,June,Thursday,KUMA01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-14,June,Thursday,DES01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-14,June,Thursday,TSAR01,SHCM,Men's hair cut,JJ,60,0
+2018-06-14,June,Thursday,CAYK01,CTU,Color touch up,JOANNE,70,0
+2018-06-14,June,Thursday,MARA01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-14,June,Thursday,HACL01,SHCW,Women's hair cut,JJ,82,0
+2018-06-14,June,Thursday,BOOR01,SHCW,Women's hair cut,JJ,82,0
+2018-06-14,June,Thursday,NOWT01,SHCW,Women's hair cut,JJ,102,0
+2018-06-14,June,Thursday,MACM01,CHLFH,Highlights full,JOANNE,140,0
+2018-06-14,June,Thursday,TAA01,CDPB,double process blonde,JOANNE,150,1
+2018-06-14,June,Thursday,WONM02,SBD5+1,Blow dry bundle 5+1,HOUSE,260,0
+2018-06-15,June,Friday,CARK01,SBD,Blowdry,KELLY,35,0
+2018-06-15,June,Friday,HUDM01,SBD,Blowdry,JJ,44.55,1
+2018-06-15,June,Friday,HUDS01,SBD,Blowdry,JJ,44.55,1
+2018-06-15,June,Friday,TAGS02,CTU,Color touch up,KELLY,45,0
+2018-06-15,June,Friday,TAYR01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-15,June,Friday,BRAN01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-15,June,Friday,KLEA01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-15,June,Friday,SPIJ01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-15,June,Friday,ALIA01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-15,June,Friday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-06-15,June,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-06-15,June,Friday,REIL01,SBD,Blowdry,BECKY,50,0
+2018-06-15,June,Friday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-06-15,June,Friday,YANC01,CTU,Color touch up,JOANNE,50,0
+2018-06-15,June,Friday,DANJ03,SBD,Blowdry,JJ,52,0
+2018-06-15,June,Friday,WIL*01,SBD,Blowdry,JJ,52,0
+2018-06-15,June,Friday,WARG01,SBD,Blowdry,JJ,52,0
+2018-06-15,June,Friday,CRAY01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-15,June,Friday,MACV01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-15,June,Friday,COLJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-15,June,Friday,THOD01,SHCM,Men's hair cut,JJ,60,0
+2018-06-15,June,Friday,MERN01,CFC,Color full color,KELLY,63.13,1
+2018-06-15,June,Friday,TAGS02,SHCW,Women's hair cut,KELLY,65,0
+2018-06-15,June,Friday,ROBT01,CTU,Color touch up,JOANNE,70,0
+2018-06-15,June,Friday,HILJ01,CTU,Color touch up,JOANNE,70,0
+2018-06-15,June,Friday,COOM01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-15,June,Friday,TINA02,SHCW,Women's hair cut,JJ,82,0
+2018-06-15,June,Friday,VERR01,SHCW,Women's hair cut,JJ,82,0
+2018-06-15,June,Friday,OSES01,SHCW,Women's hair cut,JJ,82,0
+2018-06-15,June,Friday,HUDS01,CFC,Color full color,JOANNE,85,0
+2018-06-15,June,Friday,TINA01,SHCW,Women's hair cut,JJ,102,0
+2018-06-15,June,Friday,SCHC01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-15,June,Friday,HUDS01,CFC,Color full color,JJ,,1
+2018-06-16,June,Saturday,ROPR01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-16,June,Saturday,MASR01,SBD,Blowdry,JJ,32,0
+2018-06-16,June,Saturday,MAXI01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-16,June,Saturday,DEUD01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-16,June,Saturday,SASA01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-16,June,Saturday,TUMM01,SBD,Blowdry,KELLY,55,0
+2018-06-16,June,Saturday,MARG01,SHCM,Men's hair cut,JJ,60,0
+2018-06-16,June,Saturday,ROPR01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-16,June,Saturday,TUMM01,CTU,Color touch up,JOANNE,70,0
+2018-06-16,June,Saturday,PHIJ01,CTU,Color touch up,JOANNE,70,0
+2018-06-16,June,Saturday,MARM01,CFC,Color full color,JOANNE,70,0
+2018-06-16,June,Saturday,TUMM01,CFC,Color full color,JOANNE,77.06,1
+2018-06-16,June,Saturday,RICS01,SHCW,Women's hair cut,JJ,82,0
+2018-06-16,June,Saturday,GARJ01,CFC,Color full color,JOANNE,85,0
+2018-06-16,June,Saturday,SCHH01,SHCW,Women's hair cut,JJ,102,0
+2018-06-16,June,Saturday,GARJ01,SHCW,Women's hair cut,JJ,102,0
+2018-06-16,June,Saturday,ROPR01,CBAL,Balayage,KELLY,150,0
+2018-06-16,June,Saturday,TAYE01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-17,June,Sunday,BOTN01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-17,June,Sunday,STOD01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-17,June,Sunday,HUDM01,SBD,Blowdry,BECKY,50,0
+2018-06-17,June,Sunday,HUDS01,SBD,Blowdry,BECKY,50,0
+2018-06-17,June,Sunday,WOOJ01,SBD,Blowdry,BECKY,50,0
+2018-06-17,June,Sunday,BREH01,SHCW,Women's hair cut,JJ,102,0
+2018-06-19,June,Tuesday,MOOH01,CON,Consultation,JJ,0,0
+2018-06-19,June,Tuesday,MACS01,MISC,miscellaneous,JJ,20,0
+2018-06-19,June,Tuesday,TRES01,SHCM,Men's hair cut,BECKY,30,0
+2018-06-19,June,Tuesday,JOHM01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-19,June,Tuesday,DHAN01,SBD,Blowdry,JJ,42,0
+2018-06-19,June,Tuesday,CHIC01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-19,June,Tuesday,HENB01,SHCM,Men's hair cut,JJ,49.48,1
+2018-06-19,June,Tuesday,MELE01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-19,June,Tuesday,BROS02,SHCM,Men's hair cut,BECKY,50,0
+2018-06-19,June,Tuesday,HOAS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-19,June,Tuesday,HOFJ01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-19,June,Tuesday,STEK02,SBD,Blowdry,KELLY,55,0
+2018-06-19,June,Tuesday,NIZS01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-19,June,Tuesday,SARA01,SHCM,Men's hair cut,JJ,60,0
+2018-06-19,June,Tuesday,DHAN01,CFC,Color full color,JOANNE,75,0
+2018-06-19,June,Tuesday,RICP01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-19,June,Tuesday,HOUN01,SHCW,Women's hair cut,JJ,82,0
+2018-06-19,June,Tuesday,MOSR01,SHCW,Women's hair cut,JJ,82,0
+2018-06-19,June,Tuesday,TAYL01,CHLPL,Highlights partial,JOANNE,160,0
+2018-06-19,June,Tuesday,KIRR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-06-19,June,Tuesday,TAMA01,CON,Consultation,KELLY,5,1
+2018-06-20,June,Wednesday,WITC01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-20,June,Wednesday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-06-20,June,Wednesday,CARK01,SBD,Blowdry,KELLY,45.64,1
+2018-06-20,June,Wednesday,WAGM01,CTU,Color touch up,JOANNE,50,0
+2018-06-20,June,Wednesday,MACD01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-20,June,Wednesday,SLUS01,SHCM,Men's hair cut,JJ,60,0
+2018-06-20,June,Wednesday,POTR01,SHCM,Men's hair cut,JJ,60,0
+2018-06-20,June,Wednesday,SCHJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-20,June,Wednesday,BORJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-20,June,Wednesday,CHIT01,SHCW,Women's hair cut,JJ,82,0
+2018-06-20,June,Wednesday,TRIL01,SHCW,Women's hair cut,JJ,82,0
+2018-06-20,June,Wednesday,WAL*01,SHCW,Women's hair cut,JJ,82,0
+2018-06-20,June,Wednesday,KERT01,SHCW,Women's hair cut,JJ,102,0
+2018-06-20,June,Wednesday,CORS01,SHCW,Women's hair cut,JJ,102,0
+2018-06-20,June,Wednesday,VERM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-20,June,Wednesday,CORS01,CAL,accent lights,JOANNE,140,0
+2018-06-20,June,Wednesday,CARK01,CTU,Color touch up,KELLY,52.5,1
+2018-06-21,June,Thursday,JM01,CON,Consultation,KELLY,10,0
+2018-06-21,June,Thursday,RIHM01,SBD,Blowdry,BECKY,30,0
+2018-06-21,June,Thursday,DONN01,SBD,Blowdry,JJ,32,0
+2018-06-21,June,Thursday,COLG01,SBD,Blowdry,BECKY,45.26,1
+2018-06-21,June,Thursday,HOLL01,SBD,Blowdry,BECKY,45.26,1
+2018-06-21,June,Thursday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-06-21,June,Thursday,KUKK01,SBD,Blowdry,BECKY,50,0
+2018-06-21,June,Thursday,KOZC01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-21,June,Thursday,BHAT01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-21,June,Thursday,HENB01,SHCM,Men's hair cut,JJ,60,0
+2018-06-21,June,Thursday,BURT01,SHCM,Men's hair cut,JJ,60,0
+2018-06-21,June,Thursday,GHOP01,CTU,Color touch up,JOANNE,70,0
+2018-06-21,June,Thursday,BURL01,CTU,Color touch up,JOANNE,70,0
+2018-06-21,June,Thursday,WYRC01,CTU,Color touch up,JOANNE,70,0
+2018-06-21,June,Thursday,BURL01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-21,June,Thursday,MANL01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-21,June,Thursday,GHOP01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-21,June,Thursday,RUBA01,SHCW,Women's hair cut,JJ,82,0
+2018-06-21,June,Thursday,LEEM01,CFC,Color full color,JOANNE,85,0
+2018-06-21,June,Thursday,RUTR01,CFC,Color full color,JOANNE,85,0
+2018-06-21,June,Thursday,VARE01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-21,June,Thursday,HILE01,SHCW,Women's hair cut,JJ,102,0
+2018-06-21,June,Thursday,AINM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-21,June,Thursday,MOLA01,SHCW,Women's hair cut,JJ,102,0
+2018-06-21,June,Thursday,LEEM01,SHCW,Women's hair cut,JJ,102,0
+2018-06-21,June,Thursday,RUTR01,SHCW,Women's hair cut,JJ,102,0
+2018-06-21,June,Thursday,COLG01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-22,June,Friday,INFB01,CON,Consultation,KELLY,0,0
+2018-06-22,June,Friday,MURS01,SHCM,Men's hair cut,BECKY,5,0
+2018-06-22,June,Friday,CROB01,MISC,miscellaneous,KELLY,18,0
+2018-06-22,June,Friday,KHUN01,CON,Consultation,KELLY,20,0
+2018-06-22,June,Friday,KOEE01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-22,June,Friday,CROB01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-22,June,Friday,WOOJ01,SBD,Blowdry,JJ,44.55,1
+2018-06-22,June,Friday,PENM01,SBD,Blowdry,BECKY,45.26,1
+2018-06-22,June,Friday,ABL*01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-22,June,Friday,LIMB01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-22,June,Friday,BUDG02,SHCM,Men's hair cut,BECKY,50,0
+2018-06-22,June,Friday,PENM01,CMT,Color mini touch up,JOANNE,50,1
+2018-06-22,June,Friday,WOOD02,SBD,Blowdry,JJ,52,0
+2018-06-22,June,Friday,KATS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-22,June,Friday,PANP01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-22,June,Friday,WOOJ01,CTU,Color touch up,JOANNE,66.52,1
+2018-06-22,June,Friday,WIL*01,CTU,Color touch up,JOANNE,70,0
+2018-06-22,June,Friday,DSIC01,SHCW,Women's hair cut,JJ,82,0
+2018-06-22,June,Friday,PENM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-22,June,Friday,PET*01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-22,June,Friday,WIL*01,SHCW,Women's hair cut,JJ,102,0
+2018-06-22,June,Friday,NGUS01,SHCW,Women's hair cut,JJ,102,0
+2018-06-22,June,Friday,SIRM01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-06-22,June,Friday,HILJ01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-06-23,June,Saturday,TIEM01,CT,Color toner,KELLY,20,0
+2018-06-23,June,Saturday,TIEM01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-23,June,Saturday,HUAR01,SBD,Blowdry,KELLY,35,0
+2018-06-23,June,Saturday,REDM01,SBD,Blowdry,JJ,44.55,1
+2018-06-23,June,Saturday,SUNS01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-23,June,Saturday,RUDJ01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-23,June,Saturday,TIEM01,SMARTBOND,Smart Bond,KELLY,50,0
+2018-06-23,June,Saturday,WOOJ01,SBD,Blowdry,JJ,52,0
+2018-06-23,June,Saturday,?A01,SBD,Blowdry,KELLY,55,0
+2018-06-23,June,Saturday,FIGM01,CTU,Color touch up,KELLY,65,0
+2018-06-23,June,Saturday,SUNS01,CTU,Color touch up,KELLY,65,0
+2018-06-23,June,Saturday,BENS02,CFC,Color full color,JOANNE,65,0
+2018-06-23,June,Saturday,ERWS01,CTU,Color touch up,JOANNE,70,0
+2018-06-23,June,Saturday,WOOJ01,CTU,Color touch up,JOANNE,70,0
+2018-06-23,June,Saturday,SPRK01,SHCW,Women's hair cut,JJ,81.6,0
+2018-06-23,June,Saturday,CONJ01,SHCW,Women's hair cut,JJ,82,0
+2018-06-23,June,Saturday,TAYB01,SHCW,Women's hair cut,JJ,82,0
+2018-06-23,June,Saturday,AURM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-23,June,Saturday,TIEM01,CDPB,double process blonde,KELLY,100,0
+2018-06-23,June,Saturday,ERWS01,SHCW,Women's hair cut,JJ,102,0
+2018-06-23,June,Saturday,LEEO01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-23,June,Saturday,VELA01,CON,Consultation,JJ,0,1
+2018-06-26,June,Tuesday,LEM01,CON,Consultation,KELLY,0,0
+2018-06-26,June,Tuesday,PARJ02,SHCM,Men's hair cut,KELLY,35,0
+2018-06-26,June,Tuesday,ZUKS01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-06-26,June,Tuesday,FRAM01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-26,June,Tuesday,FIND01,SBD,Blowdry,KELLY,45,0
+2018-06-26,June,Tuesday,YATT01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-26,June,Tuesday,ZUKS01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-26,June,Tuesday,PENM01,SBD,Blowdry,BECKY,50,0
+2018-06-26,June,Tuesday,PENM01,CMT,Color mini touch up,JOANNE,50,0
+2018-06-26,June,Tuesday,NELT01,SBD,Blowdry,JJ,52,0
+2018-06-26,June,Tuesday,VERD01,SHCM,Men's hair cut,KELLY,55,0
+2018-06-26,June,Tuesday,RICP01,SBD,Blowdry,KELLY,55,0
+2018-06-26,June,Tuesday,LEHF01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-26,June,Tuesday,FER*01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-26,June,Tuesday,NIES02,SHCM,Men's hair cut,JJ,60,0
+2018-06-26,June,Tuesday,TRAJ01,SHCM,Men's hair cut,JJ,60,0
+2018-06-26,June,Tuesday,ZHAV01,CFC,Color full color,JOANNE,65,0
+2018-06-26,June,Tuesday,WINL01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-06-26,June,Tuesday,STEK01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-26,June,Tuesday,MARD01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-26,June,Tuesday,FANM01,SHCW,Women's hair cut,JJ,82,0
+2018-06-26,June,Tuesday,LINJ01,SHCW,Women's hair cut,JJ,102,0
+2018-06-26,June,Tuesday,BRES01,SHCW,Women's hair cut,JJ,102,0
+2018-06-26,June,Tuesday,FIND01,CHLPL,Highlights partial,JOANNE,150,0
+2018-06-27,June,Wednesday,LEWH02,SBD,Blowdry,KELLY,35,0
+2018-06-27,June,Wednesday,GREB01,SHCM,Men's hair cut,JJ,40,0
+2018-06-27,June,Wednesday,CARK01,CTU,Color touch up,KELLY,40,0
+2018-06-27,June,Wednesday,CARK01,SBD,Blowdry,KELLY,45.64,1
+2018-06-27,June,Wednesday,MCCB01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-27,June,Wednesday,MESN01,SBD,Blowdry,BECKY,50,0
+2018-06-27,June,Wednesday,HOLL01,SBD,Blowdry,BECKY,50,0
+2018-06-27,June,Wednesday,YANM01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-27,June,Wednesday,CARK01,SHCM,Men's hair cut,KELLY,55,0
+2018-06-27,June,Wednesday,SUNS01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-27,June,Wednesday,BERI01,SHCM,Men's hair cut,JJ,60,0
+2018-06-27,June,Wednesday,STEH01,SHCM,Men's hair cut,JJ,60,0
+2018-06-27,June,Wednesday,LYNG01,SHCM,Men's hair cut,JJ,60,0
+2018-06-27,June,Wednesday,HOWC01,SHCM,Men's hair cut,JJ,60,0
+2018-06-27,June,Wednesday,SHAS01,SHCM,Men's hair cut,JJ,60,0
+2018-06-27,June,Wednesday,BELK01,CFC,Color full color,KELLY,65,0
+2018-06-27,June,Wednesday,WOOD01,CTU,Color touch up,JOANNE,70,0
+2018-06-27,June,Wednesday,HOLL01,CTU,Color touch up,JOANNE,70,0
+2018-06-27,June,Wednesday,COXH01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-27,June,Wednesday,PARS01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-27,June,Wednesday,.L01,SHCW,Women's hair cut,JJ,88.44,1
+2018-06-27,June,Wednesday,WOOD01,SHCW,Women's hair cut,JJ,102,0
+2018-06-27,June,Wednesday,MASA01,CBAL,Balayage,KELLY,155.56,1
+2018-06-28,June,Thursday,RUBA01,CON,Consultation,JJ,0,0
+2018-06-28,June,Thursday,BURD01,SHCM,Men's hair cut,BECKY,5,0
+2018-06-28,June,Thursday,WASS01,SHCM,Men's hair cut,KELLY,35,0
+2018-06-28,June,Thursday,JENP01,SHCC,Children (under 12),KELLY,35,1
+2018-06-28,June,Thursday,MEIC01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-06-28,June,Thursday,HOG*01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-28,June,Thursday,BATP01,SHCM,Men's hair cut,JJ,50,0
+2018-06-28,June,Thursday,MAKM01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-28,June,Thursday,ELSM01,SBD,Blowdry,BECKY,50,0
+2018-06-28,June,Thursday,DOWR01,SBD,Blowdry,JJ,52,0
+2018-06-28,June,Thursday,BOTS01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-28,June,Thursday,ADAP01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-28,June,Thursday,WALT01,SHCW,Women's hair cut,KELLY,55,0
+2018-06-28,June,Thursday,BOTC01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-28,June,Thursday,SIDA01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-28,June,Thursday,DUFD01,SHCM,Men's hair cut,JJ,60,0
+2018-06-28,June,Thursday,ADAP01,CFC,Color full color,KELLY,65,0
+2018-06-28,June,Thursday,MARK01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-06-28,June,Thursday,BENC01,CTU,Color touch up,JOANNE,70,0
+2018-06-28,June,Thursday,BOTK01,SHCW,Women's hair cut,JJ,82,0
+2018-06-28,June,Thursday,YEHC01,SHCW,Women's hair cut,JJ,82,0
+2018-06-28,June,Thursday,SILG01,SHCW,Women's hair cut,JJ,82,0
+2018-06-28,June,Thursday,KUKK01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-06-28,June,Thursday,WEES01,CON,Consultation,JJ,0,1
+2018-06-29,June,Friday,DUFD01,CON,Consultation,JJ,0,1
+2018-06-29,June,Friday,MCWC01,CAS,Color additional service,KELLY,5,0
+2018-06-29,June,Friday,APTM01,SHCM,Men's hair cut,JJ,30,0
+2018-06-29,June,Friday,OHA*01,SHCC,Children (under 12),BECKY,30,0
+2018-06-29,June,Friday,OHA*01,SHCC,Children (under 12),BECKY,34,1
+2018-06-29,June,Friday,MCWC01,CT,Color toner,KELLY,45,0
+2018-06-29,June,Friday,SIRM01,SBD,Blowdry,BECKY,45.26,1
+2018-06-29,June,Friday,MCWC01,SMARTBOND,Smart Bond,KELLY,50,0
+2018-06-29,June,Friday,COLR02,SHCM,Men's hair cut,BECKY,50,0
+2018-06-29,June,Friday,COLR01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-29,June,Friday,KLEA01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-29,June,Friday,FLEL01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-29,June,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-06-29,June,Friday,GREL01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-29,June,Friday,OGDJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-29,June,Friday,OHAG01,SHCM,Men's hair cut,JJ,60,0
+2018-06-29,June,Friday,MCWC01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-29,June,Friday,HAMN01,CTU,Color touch up,JOANNE,70,0
+2018-06-29,June,Friday,GAD*01,CFC,Color full color,JOANNE,77.06,1
+2018-06-29,June,Friday,WANM01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-29,June,Friday,MCMC01,SHCW,Women's hair cut,JJ,82,0
+2018-06-29,June,Friday,COLG01,SHCW,Women's hair cut,JJ,102,0
+2018-06-29,June,Friday,LEVL01,SHCW,Women's hair cut,JJ,102,0
+2018-06-29,June,Friday,SAVP01,SHCW,Women's hair cut,JJ,102,0
+2018-06-29,June,Friday,HAMN01,SHCW,Women's hair cut,JJ,102,0
+2018-06-29,June,Friday,KALA01,SHCW,Women's hair cut,JJ,102,0
+2018-06-29,June,Friday,NGUS01,CALC,Accent lights and color,JOANNE,140,0
+2018-06-29,June,Friday,MCWC01,CBAL,Balayage,KELLY,150,0
+2018-06-29,June,Friday,KALA01,CHLPHC,Partial highlights and color,JOANNE,160,0
+2018-06-29,June,Friday,FIOJ01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-29,June,Friday,MARK01,CON,Consultation,BECKY,0,1
+2018-06-30,June,Saturday,TAMA01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-30,June,Saturday,KRAV01,SMARTBOND,Smart Bond,KELLY,25,0
+2018-06-30,June,Saturday,CASN01,SBD,Blowdry,BECKY,30,0
+2018-06-30,June,Saturday,WELN01,SBD,Blowdry,JJ,30,0
+2018-06-30,June,Saturday,HELJ01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-06-30,June,Saturday,WOOJ02,SHCM,Men's hair cut,BECKY,41.15,1
+2018-06-30,June,Saturday,WOOD02,SBD,Blowdry,JJ,44.55,1
+2018-06-30,June,Saturday,HAMA01,SHCW,Women's hair cut,KELLY,45,0
+2018-06-30,June,Saturday,DELC01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-30,June,Saturday,IRWE01,SHCM,Men's hair cut,BECKY,50,0
+2018-06-30,June,Saturday,WOOJ01,SBD,Blowdry,BECKY,50,0
+2018-06-30,June,Saturday,TAMA01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-06-30,June,Saturday,DEYS01,SHCW,Women's hair cut,BECKY,60,0
+2018-06-30,June,Saturday,KRAV01,SHCW,Women's hair cut,KELLY,65,0
+2018-06-30,June,Saturday,TRAS02,CFC,Color full color,JOANNE,65,0
+2018-06-30,June,Saturday,TOPS01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-06-30,June,Saturday,IRWE01,CTU,Color touch up,JOANNE,70,0
+2018-06-30,June,Saturday,TAMA01,SHCW,Women's hair cut,KELLY,75,0
+2018-06-30,June,Saturday,FISV01,CFC,Color full color,JOANNE,77.06,1
+2018-06-30,June,Saturday,FISV01,SHCW,Women's hair cut,BECKY,80,0
+2018-06-30,June,Saturday,LEHN01,SHCW,Women's hair cut,JJ,82,0
+2018-06-30,June,Saturday,LAS01,SHCW,Women's hair cut,JJ,82,0
+2018-06-30,June,Saturday,FISV01,CFC,Color full color,JOANNE,85,0
+2018-06-30,June,Saturday,TAMA01,CT,Color toner,KELLY,90,0
+2018-06-30,June,Saturday,KRAV01,CDPB,double process blonde,KELLY,100,0
+2018-06-30,June,Saturday,EZIR01,SHCW,Women's hair cut,JJ,102,0
+2018-06-30,June,Saturday,GOSD01,CHLPL,Highlights partial,JOANNE,130,0
+2018-06-30,June,Saturday,TAMA01,CBAL,Balayage,KELLY,150,0
+2018-06-30,June,Saturday,TAMA01,CBAL,Balayage,KELLY,155.56,1
+2018-06-30,June,Saturday,SKUD01,SBD5+1,Blow dry bundle 5+1,HOUSE,230,0
+2018-07-03,July,Tuesday,KATM01,CON,Consultation,JOANNE,0,1
+2018-07-03,July,Tuesday,NORJ01,SHCM,Men's hair cut,JJ,40,0
+2018-07-03,July,Tuesday,TASJ01,SHCM,Men's hair cut,JJ,40,0
+2018-07-03,July,Tuesday,DHAS02,SHCW,Women's hair cut,KELLY,45,0
+2018-07-03,July,Tuesday,DHAS02,CT,Color toner,KELLY,45,0
+2018-07-03,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,45.26,1
+2018-07-03,July,Tuesday,NELT01,SBD,Blowdry,BECKY,45.26,1
+2018-07-03,July,Tuesday,DHAS02,SMARTBOND,Smart Bond,KELLY,50,0
+2018-07-03,July,Tuesday,OWED01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-03,July,Tuesday,NICP01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-03,July,Tuesday,LAWJ01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-03,July,Tuesday,LEHJ01,SHCM,Men's hair cut,JJ,50,0
+2018-07-03,July,Tuesday,JOHD01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-03,July,Tuesday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-07-03,July,Tuesday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-07-03,July,Tuesday,WONM02,SBD,Blowdry,JJ,52,0
+2018-07-03,July,Tuesday,SUNS01,SHCW,Women's hair cut,KELLY,56.05,1
+2018-07-03,July,Tuesday,KREJ01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-03,July,Tuesday,SUNS01,CTU,Color touch up,KELLY,65,0
+2018-07-03,July,Tuesday,ROWD01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-03,July,Tuesday,KIMH01,SHCW,Women's hair cut,JJ,82,0
+2018-07-03,July,Tuesday,DHAS02,CHLHH,Highlights half head,KELLY,130,0
+2018-07-03,July,Tuesday,DEYS01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-07-03,July,Tuesday,TINA02,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-03,July,Tuesday,ESKR01,CON,Consultation,JJ,0,1
+2018-07-04,July,Wednesday,DAMK01,TRE 1,Treatments 1,JOANNE,20,0
+2018-07-04,July,Wednesday,PANB01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-04,July,Wednesday,PARD01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-04,July,Wednesday,TANJ01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-04,July,Wednesday,DEAM01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-07-04,July,Wednesday,POTR01,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-04,July,Wednesday,ARRM01,SBD,Blowdry,JJ,52,0
+2018-07-04,July,Wednesday,COLG01,SBD,Blowdry,KELLY,55,0
+2018-07-04,July,Wednesday,GRET01,SHCM,Men's hair cut,JJ,60,0
+2018-07-04,July,Wednesday,DAMK01,CTU,Color touch up,JOANNE,60,0
+2018-07-04,July,Wednesday,DAMK01,SHCW,Women's hair cut,KELLY,65,0
+2018-07-04,July,Wednesday,TAYN01,SHCW,Women's hair cut,JJ,82,0
+2018-07-04,July,Wednesday,ARRM01,CFC,Color full color,JOANNE,85,0
+2018-07-04,July,Wednesday,JENP01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-04,July,Wednesday,ALVJ01,SHCW,Women's hair cut,JJ,102,0
+2018-07-04,July,Wednesday,GELK01,SHCW,Women's hair cut,JJ,102,0
+2018-07-04,July,Wednesday,RIDY01,CHLPL,Highlights partial,JOANNE,140,0
+2018-07-04,July,Wednesday,OZDC02,CON,Consultation,JOANNE,0,1
+2018-07-04,July,Wednesday,VELA01,CON,Consultation,JJ,0,1
+2018-07-05,July,Thursday,DEH01,SBD,Blowdry,JJ,32,0
+2018-07-05,July,Thursday,KIRJ01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-05,July,Thursday,POUG01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-05,July,Thursday,VALT01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-05,July,Thursday,KOLK01,SHCW,Women's hair cut,KELLY,45,0
+2018-07-05,July,Thursday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-07-05,July,Thursday,BRAN01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-05,July,Thursday,BANR01,SBD,Blowdry,BECKY,50,0
+2018-07-05,July,Thursday,STOV01,SHCM,Men's hair cut,JJ,60,0
+2018-07-05,July,Thursday,GUBD01,SHCM,Men's hair cut,JJ,60,0
+2018-07-05,July,Thursday,GALB01,SHCM,Men's hair cut,JJ,60,0
+2018-07-05,July,Thursday,BANR01,CTU,Color touch up,JOANNE,70,0
+2018-07-05,July,Thursday,GRIA01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-05,July,Thursday,CYRA01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-05,July,Thursday,BRIK01,SHCW,Women's hair cut,JJ,102,0
+2018-07-05,July,Thursday,DHOA01,SBD,Blowdry,JJ,44.55,1
+2018-07-06,July,Friday,SHAM01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-06,July,Friday,TERJ01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-06,July,Friday,HADD01,SBD,Blowdry,KELLY,35,0
+2018-07-06,July,Friday,CARK01,SBD,Blowdry,KELLY,35,0
+2018-07-06,July,Friday,MINA02,CT,Color toner,JOANNE,35,0
+2018-07-06,July,Friday,CALD01,SHCM,Men's hair cut,JJ,40,0
+2018-07-06,July,Friday,LEM01,CT,Color toner,KELLY,40,0
+2018-07-06,July,Friday,LEM01,SMARTBOND,Smart Bond,KELLY,50,0
+2018-07-06,July,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-07-06,July,Friday,LIND01,CMT,Color mini touch up,JOANNE,50,0
+2018-07-06,July,Friday,BEBY01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-06,July,Friday,THOD01,SHCM,Men's hair cut,JJ,60,0
+2018-07-06,July,Friday,LEM01,SHCW,Women's hair cut,KELLY,65,0
+2018-07-06,July,Friday,DAJR01,CTU,Color touch up,JOANNE,66.52,1
+2018-07-06,July,Friday,WANM01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-06,July,Friday,DAJR01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-06,July,Friday,MINA02,SHCW,Women's hair cut,BECKY,70,0
+2018-07-06,July,Friday,MUMK01,CTU,Color touch up,JOANNE,70,0
+2018-07-06,July,Friday,MOIB01,CTU,Color touch up,JOANNE,70,0
+2018-07-06,July,Friday,MUMK01,SHCW,Women's hair cut,JJ,75,0
+2018-07-06,July,Friday,CHMY01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-06,July,Friday,BOYL01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-06,July,Friday,MARO01,SDUD,Dry updo,KELLY,80,0
+2018-07-06,July,Friday,MCAJ01,SHCW,Women's hair cut,JJ,82,0
+2018-07-06,July,Friday,SINM01,SHCW,Women's hair cut,JJ,82,0
+2018-07-06,July,Friday,HIMB01,SHCW,Women's hair cut,JJ,102,0
+2018-07-06,July,Friday,GOSD01,SHCW,Women's hair cut,JJ,102,0
+2018-07-06,July,Friday,MOIB01,SHCW,Women's hair cut,JJ,102,0
+2018-07-06,July,Friday,LEM01,CBAL,Balayage,KELLY,160,0
+2018-07-06,July,Friday,LIND01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-07-07,July,Saturday,STOD01,CON,Consultation,JJ,0,0
+2018-07-07,July,Saturday,CASH01,CON,Consultation,JJ,0,0
+2018-07-07,July,Saturday,MACB01,CON,Consultation,JJ,0,0
+2018-07-07,July,Saturday,SQUN01,SHCM,Men's hair cut,JJ,20,0
+2018-07-07,July,Saturday,PIJM01,CT,Color toner,KELLY,25,0
+2018-07-07,July,Saturday,BREH01,SBD,Blowdry,JJ,44.55,1
+2018-07-07,July,Saturday,CHOK01,SHCW,Women's hair cut,KELLY,45,0
+2018-07-07,July,Saturday,ABL*01,SBD,Blowdry,KELLY,45.64,1
+2018-07-07,July,Saturday,PIJM01,SMARTBOND,Smart Bond,KELLY,50,0
+2018-07-07,July,Saturday,WONM02,CMT,Color mini touch up,JOANNE,50,0
+2018-07-07,July,Saturday,ARRM01,SBD,Blowdry,JJ,52,0
+2018-07-07,July,Saturday,BREH01,SBD,Blowdry,JJ,52,0
+2018-07-07,July,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-07-07,July,Saturday,MORD01,SHCM,Men's hair cut,KELLY,55,0
+2018-07-07,July,Saturday,?A01,SBD,Blowdry,KELLY,55,0
+2018-07-07,July,Saturday,HUDM01,SBD,Blowdry,KELLY,55,0
+2018-07-07,July,Saturday,PIJM01,SHCW,Women's hair cut,KELLY,65,0
+2018-07-07,July,Saturday,POIJ01,CFC,Color full color,JOANNE,65,0
+2018-07-07,July,Saturday,SPEK01,CTU,Color touch up,JOANNE,70,0
+2018-07-07,July,Saturday,NADS01,CTU,Color touch up,JOANNE,70,0
+2018-07-07,July,Saturday,EZIR01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-07,July,Saturday,KINN01,SHCW,Women's hair cut,JJ,102,0
+2018-07-07,July,Saturday,SPEK01,SHCW,Women's hair cut,JJ,102,0
+2018-07-07,July,Saturday,SMIS01,SHCW,Women's hair cut,JJ,102,0
+2018-07-07,July,Saturday,BERH01,SHCW,Women's hair cut,JJ,102,0
+2018-07-07,July,Saturday,PIJM01,CBAL,Balayage,KELLY,150,0
+2018-07-07,July,Saturday,SMIS01,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-07,July,Saturday,ARRM01,CFC,Color full color,JJ,,1
+2018-07-10,July,Tuesday,LANR01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-10,July,Tuesday,DEAM01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-10,July,Tuesday,BESJ01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-10,July,Tuesday,SMIL01,SHCM,Men's hair cut,JJ,40,0
+2018-07-10,July,Tuesday,MASA01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-07-10,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,45.26,1
+2018-07-10,July,Tuesday,HILJ01,SBD,Blowdry,BECKY,45.26,1
+2018-07-10,July,Tuesday,GRIP01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-10,July,Tuesday,MASA01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-10,July,Tuesday,BUDG02,SHCM,Men's hair cut,BECKY,50,0
+2018-07-10,July,Tuesday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-07-10,July,Tuesday,WOOJ01,SBD,Blowdry,JJ,52,0
+2018-07-10,July,Tuesday,SINS02,SHCM,Men's hair cut,KELLY,55,0
+2018-07-10,July,Tuesday,NIDN01,SBD,Blowdry,KELLY,55,0
+2018-07-10,July,Tuesday,SINS01,SHCM,Men's hair cut,JJ,60,0
+2018-07-10,July,Tuesday,TAYE01,SHCM,Men's hair cut,JJ,60,0
+2018-07-10,July,Tuesday,MART01,CTU,Color touch up,JOANNE,60,0
+2018-07-10,July,Tuesday,MART01,SHCW,Women's hair cut,KELLY,65,0
+2018-07-10,July,Tuesday,ELCB01,CTU,Color touch up,JOANNE,66.52,1
+2018-07-10,July,Tuesday,SCHP01,CTU,Color touch up,JOANNE,70,0
+2018-07-10,July,Tuesday,WOOJ01,CTU,Color touch up,JOANNE,70,0
+2018-07-10,July,Tuesday,HOLD01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-10,July,Tuesday,RICP01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-10,July,Tuesday,SCHP01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-10,July,Tuesday,BALO01,SHCW,Women's hair cut,JJ,82,0
+2018-07-10,July,Tuesday,NIDN01,CFC,Color full color,JOANNE,85,0
+2018-07-10,July,Tuesday,CLAM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-10,July,Tuesday,WARG01,SHCW,Women's hair cut,JJ,102,0
+2018-07-10,July,Tuesday,WEIA01,SHCW,Women's hair cut,JJ,102,0
+2018-07-10,July,Tuesday,ARRM01,SMO,Smoothing treatment,BECKY,300,0
+2018-07-10,July,Tuesday,WELN01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-11,July,Wednesday,HOFJ01,SBD,Blowdry,TANYA,22.78,1
+2018-07-11,July,Wednesday,MASA01,SHCC,Children (under 12),JJ,24,1
+2018-07-11,July,Wednesday,MUNM01,SHCC,Children (under 12),JJ,32,0
+2018-07-11,July,Wednesday,DUFM01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-11,July,Wednesday,MUNM01,SHCC,Children (under 12),KELLY,35,1
+2018-07-11,July,Wednesday,MUNJ01,SHCC,Children (under 12),KELLY,35,0
+2018-07-11,July,Wednesday,CLAJ01,SBD,Blowdry,TANYA,35,0
+2018-07-11,July,Wednesday,WONM02,SBD,Blowdry,JJ,52,0
+2018-07-11,July,Wednesday,COLG01,SBD,Blowdry,JJ,52,0
+2018-07-11,July,Wednesday,WICJ01,SHCM,Men's hair cut,JJ,60,0
+2018-07-11,July,Wednesday,COLG01,CTU,Color touch up,JOANNE,70,0
+2018-07-11,July,Wednesday,JACA01,CFC,Color full color,JOANNE,77.06,1
+2018-07-11,July,Wednesday,JACA01,CFC,Color full color,JOANNE,77.06,1
+2018-07-11,July,Wednesday,KEAJ01,SHCW,Women's hair cut,JJ,82,0
+2018-07-11,July,Wednesday,JACA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-11,July,Wednesday,JACA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-11,July,Wednesday,JACA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-11,July,Wednesday,JACA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-11,July,Wednesday,KIMS01,SHCW,Women's hair cut,JJ,102,0
+2018-07-11,July,Wednesday,MCGA01,SHCW,Women's hair cut,JJ,102,0
+2018-07-11,July,Wednesday,JARM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-11,July,Wednesday,NICM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-11,July,Wednesday,PRIL01,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-12,July,Thursday,JACA01,CON,Consultation,JJ,0,0
+2018-07-12,July,Thursday,WRIM01,SBD,Blowdry,TANYA,15,0
+2018-07-12,July,Thursday,SITB01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-12,July,Thursday,MOOJ01,SBD,Blowdry,KELLY,35,0
+2018-07-12,July,Thursday,DUBO01,CFC,Color full color,TANYA,35,0
+2018-07-12,July,Thursday,RIJR01,SHCM,Men's hair cut,JJ,40,0
+2018-07-12,July,Thursday,CARK01,SBD,Blowdry,KELLY,45.64,1
+2018-07-12,July,Thursday,FLAD01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-12,July,Thursday,DOWR01,SBD,Blowdry,BECKY,50,0
+2018-07-12,July,Thursday,SITB01,CFC,Color full color,KELLY,50,0
+2018-07-12,July,Thursday,BROF01,SBD,Blowdry,KELLY,55,0
+2018-07-12,July,Thursday,SPEC01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-12,July,Thursday,ZIMJ01,SHCM,Men's hair cut,JJ,60,0
+2018-07-12,July,Thursday,HENA01,CTU,Color touch up,JOANNE,70,0
+2018-07-12,July,Thursday,WAIS01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-12,July,Thursday,HENA01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-12,July,Thursday,GOUE01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-12,July,Thursday,POLB01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-12,July,Thursday,BUSC01,CAL,accent lights,JOANNE,80,0
+2018-07-12,July,Thursday,JACA01,SHCW,Women's hair cut,JJ,82,0
+2018-07-12,July,Thursday,STEC01,SHCW,Women's hair cut,JJ,82,0
+2018-07-12,July,Thursday,JARS01,SHCW,Women's hair cut,JJ,82,0
+2018-07-12,July,Thursday,MAEJ01,CFC,Color full color,JOANNE,85,0
+2018-07-12,July,Thursday,SINM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-12,July,Thursday,JACA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-12,July,Thursday,MAEJ01,SHCW,Women's hair cut,JJ,102,0
+2018-07-12,July,Thursday,TAYD01,SHCW,Women's hair cut,JJ,102,0
+2018-07-12,July,Thursday,BUSC01,SHCW,Women's hair cut,JJ,102,0
+2018-07-12,July,Thursday,BROF01,CALC,Accent lights and color,JOANNE,140,0
+2018-07-12,July,Thursday,LIMJ01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-07-13,July,Friday,INFB01,CON,Consultation,KELLY,5,1
+2018-07-13,July,Friday,CAND01,CCAMO,Men's camo color,JJ,32.08,1
+2018-07-13,July,Friday,SHMS01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-07-13,July,Friday,POOD01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-13,July,Friday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-07-13,July,Friday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-07-13,July,Friday,WOOD02,SBD,Blowdry,JJ,52,0
+2018-07-13,July,Friday,LYK01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-13,July,Friday,FREK01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-13,July,Friday,CAND01,SHCM,Men's hair cut,JJ,60,0
+2018-07-13,July,Friday,BARW01,SHCM,Men's hair cut,JJ,60,0
+2018-07-13,July,Friday,CARB01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-13,July,Friday,BOWM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-13,July,Friday,KIMY01,SHCW,Women's hair cut,JJ,102,0
+2018-07-13,July,Friday,SARK01,SHCW,Women's hair cut,JJ,102,0
+2018-07-13,July,Friday,SCHC01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-13,July,Friday,ROZM01,CHLPL,Highlights partial,JOANNE,140,0
+2018-07-13,July,Friday,SARK01,CALC,Accent lights and color,JOANNE,140,0
+2018-07-13,July,Friday,LAMD01,CBAL,Balayage,JOANNE,192.5,1
+2018-07-13,July,Friday,DUFD01,CON,Consultation,JJ,0,1
+2018-07-14,July,Saturday,LAMD01,CON,Consultation,JOANNE,0,1
+2018-07-14,July,Saturday,LAIA01,SBD,Blowdry,TANYA,15,0
+2018-07-14,July,Saturday,MUIK01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-14,July,Saturday,MOHM01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-14,July,Saturday,CECA01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-14,July,Saturday,HUTP01,SHCM,Men's hair cut,JJ,40,0
+2018-07-14,July,Saturday,SMAN01,SHCW,Women's hair cut,KELLY,45,0
+2018-07-14,July,Saturday,DALR01,SHCW,Women's hair cut,KELLY,45,0
+2018-07-14,July,Saturday,HELJ01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-14,July,Saturday,SHAA01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-14,July,Saturday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-07-14,July,Saturday,BINP01,SHCW,Women's hair cut,JJ,51,0
+2018-07-14,July,Saturday,ARBA01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-14,July,Saturday,YAGL01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-14,July,Saturday,FLAS01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-14,July,Saturday,CULT01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-14,July,Saturday,TOPS01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-14,July,Saturday,COWL01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-14,July,Saturday,TOBJ01,SHCW,Women's hair cut,JJ,82,0
+2018-07-14,July,Saturday,FLAS01,CFC,Color full color,JOANNE,85,0
+2018-07-14,July,Saturday,PET*01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-14,July,Saturday,COWL01,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-14,July,Saturday,TOPS01,CBAL,Balayage,JOANNE,192.5,1
+2018-07-14,July,Saturday,LAMD01,CBAL,Balayage,JOANNE,200,0
+2018-07-15,July,Sunday,BARJ01,SHCM,Men's hair cut,BECKY,30,0
+2018-07-15,July,Sunday,NIKK01,SBD,Blowdry,JJ,32,0
+2018-07-15,July,Sunday,WOOD02,SBD,Blowdry,BECKY,45.26,1
+2018-07-15,July,Sunday,HAMD01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-15,July,Sunday,YATT01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-15,July,Sunday,WONM02,SBD,Blowdry,JJ,52,0
+2018-07-15,July,Sunday,CONK01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-15,July,Sunday,BROT01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-17,July,Tuesday,KWOR01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-17,July,Tuesday,TIML01,SBD,Blowdry,TANYA,35,0
+2018-07-17,July,Tuesday,GROR01,SHCM,Men's hair cut,JJ,40,0
+2018-07-17,July,Tuesday,GUYD01,CCAMO,Men's camo color,BECKY,45,0
+2018-07-17,July,Tuesday,BROS01,SBD,Blowdry,BECKY,45.26,1
+2018-07-17,July,Tuesday,THOD01,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-17,July,Tuesday,PAE01,SMARTBOND,Smart Bond,KELLY,50,0
+2018-07-17,July,Tuesday,GUYD01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-17,July,Tuesday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-07-17,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,50,0
+2018-07-17,July,Tuesday,RIHM01,SBD,Blowdry,BECKY,50,0
+2018-07-17,July,Tuesday,HILJ01,CMT,Color mini touch up,JOANNE,50,0
+2018-07-17,July,Tuesday,PARJ01,SHCM,Men's hair cut,KELLY,55,0
+2018-07-17,July,Tuesday,JURS01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-17,July,Tuesday,LEEP01,SHCM,Men's hair cut,JJ,60,0
+2018-07-17,July,Tuesday,HENB01,SHCM,Men's hair cut,JJ,60,0
+2018-07-17,July,Tuesday,THOW02,SHCM,Men's hair cut,JJ,60,0
+2018-07-17,July,Tuesday,PIPJ01,SHCM,Men's hair cut,JJ,60,0
+2018-07-17,July,Tuesday,NIDN01,CTU,Color touch up,JOANNE,66.52,1
+2018-07-17,July,Tuesday,HEIM01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-17,July,Tuesday,YANC01,CTU,Color touch up,JOANNE,70,0
+2018-07-17,July,Tuesday,PAE01,SHCW,Women's hair cut,KELLY,75,0
+2018-07-17,July,Tuesday,BOSJ01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-17,July,Tuesday,JOHJ01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-17,July,Tuesday,SARM01,SHCW,Women's hair cut,JJ,82,0
+2018-07-17,July,Tuesday,HYLK01,SHCW,Women's hair cut,JJ,82,0
+2018-07-17,July,Tuesday,SARM01,CFC,Color full color,JOANNE,85,0
+2018-07-17,July,Tuesday,STEL01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-17,July,Tuesday,PAE01,CHLHHC,Highlights half head and color,KELLY,110,0
+2018-07-17,July,Tuesday,STUM01,CALC,Accent lights and color,JOANNE,125,0
+2018-07-17,July,Tuesday,KUCM02,CALC,Accent lights and color,JOANNE,127,1
+2018-07-17,July,Tuesday,TRAS01,CHLPHC,Partial highlights and color,JOANNE,150,0
+2018-07-18,July,Wednesday,STAT01,SBD,Blowdry,TANYA,15,0
+2018-07-18,July,Wednesday,KEIS01,SBD,Blowdry,TANYA,22.78,1
+2018-07-18,July,Wednesday,BORJ01,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-18,July,Wednesday,LEVL01,SBD,Blowdry,JJ,52,0
+2018-07-18,July,Wednesday,ELSM01,SBD,Blowdry,JJ,52,0
+2018-07-18,July,Wednesday,SLUS01,SHCM,Men's hair cut,JJ,60,0
+2018-07-18,July,Wednesday,POTR01,SHCM,Men's hair cut,JJ,60,0
+2018-07-18,July,Wednesday,BEZK01,SHCW,Women's hair cut,JJ,82,0
+2018-07-18,July,Wednesday,VARE01,SHCW,Women's hair cut,JJ,82,0
+2018-07-18,July,Wednesday,MANL01,SHCW,Women's hair cut,JJ,102,0
+2018-07-18,July,Wednesday,PHIJ01,SHCW,Women's hair cut,JJ,102,0
+2018-07-18,July,Wednesday,BOES01,CAL,accent lights,JOANNE,110,0
+2018-07-19,July,Thursday,WOOJ02,SHCM,Men's hair cut,BECKY,30,0
+2018-07-19,July,Thursday,TN01,CTU,Color touch up,TANYA,38.33,1
+2018-07-19,July,Thursday,SKUD01,SBD,Blowdry,BECKY,45.26,1
+2018-07-19,July,Thursday,LIMB01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-19,July,Thursday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-07-19,July,Thursday,COLG01,SBD,Blowdry,BECKY,50,0
+2018-07-19,July,Thursday,COHH01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-19,July,Thursday,LIAA01,FRI,Fringe cut,JJ,56.05,1
+2018-07-19,July,Thursday,SIDA01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-19,July,Thursday,CHAE01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-19,July,Thursday,HERD01,SHCW,Women's hair cut,KELLY,60,0
+2018-07-19,July,Thursday,STEM02,SHCM,Men's hair cut,JJ,60,0
+2018-07-19,July,Thursday,KEIS01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-19,July,Thursday,WIL*01,CTU,Color touch up,JOANNE,70,0
+2018-07-19,July,Thursday,NICL01,SHCW,Women's hair cut,JJ,73.6,0
+2018-07-19,July,Thursday,KEIS01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-19,July,Thursday,HEIM01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-19,July,Thursday,BEAA02,SHCW,Women's hair cut,JJ,82,0
+2018-07-19,July,Thursday,JASA01,SHCW,Women's hair cut,JJ,102,0
+2018-07-19,July,Thursday,SINJ01,SHCW,Women's hair cut,JJ,102,0
+2018-07-19,July,Thursday,WIL*01,SHCW,Women's hair cut,JJ,102,0
+2018-07-19,July,Thursday,HOLL01,SHCW,Women's hair cut,JJ,102,0
+2018-07-19,July,Thursday,ESKR01,SHCW,Women's hair cut,JJ,102,0
+2018-07-19,July,Thursday,NICL01,CHLPL,Highlights partial,JOANNE,150,0
+2018-07-19,July,Thursday,OZDC02,CDPB,double process blonde,JOANNE,150,1
+2018-07-20,July,Friday,RUBH02,SBD,Blowdry,TANYA,25,0
+2018-07-20,July,Friday,RUBH02,CTU,Color touch up,TANYA,25,0
+2018-07-20,July,Friday,DIRK01,CT,Color toner,KELLY,30,0
+2018-07-20,July,Friday,MOOE01,SHCW,Women's hair cut,KELLY,45,0
+2018-07-20,July,Friday,SIRM01,SBD,Blowdry,BECKY,45.26,1
+2018-07-20,July,Friday,KLEA01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-20,July,Friday,POUG01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-20,July,Friday,STEB01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-20,July,Friday,LIND01,SBD,Blowdry,BECKY,50,0
+2018-07-20,July,Friday,POLB01,SBD,Blowdry,BECKY,50,0
+2018-07-20,July,Friday,LIND01,CMT,Color mini touch up,JOANNE,50,0
+2018-07-20,July,Friday,PENM01,CMT,Color mini touch up,JOANNE,50,0
+2018-07-20,July,Friday,CRIV01,SBD,Blowdry,JJ,52,0
+2018-07-20,July,Friday,PENM01,SBD,Blowdry,JJ,52,0
+2018-07-20,July,Friday,FAIL01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-20,July,Friday,TOMA01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-20,July,Friday,DIRK01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-20,July,Friday,MAXI01,SHCM,Men's hair cut,KELLY,55,0
+2018-07-20,July,Friday,ROBT01,SBD,Blowdry,KELLY,55,0
+2018-07-20,July,Friday,RUTR01,CTU,Color touch up,JOANNE,70,0
+2018-07-20,July,Friday,SKUD01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-20,July,Friday,SENM01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-20,July,Friday,MARK01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-20,July,Friday,MCGD01,SHCW,Women's hair cut,JJ,82,0
+2018-07-20,July,Friday,HUDM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-20,July,Friday,CRIV01,SHCW,Women's hair cut,JJ,102,0
+2018-07-20,July,Friday,KOOM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-20,July,Friday,THOW01,SHCW,Women's hair cut,JJ,102,0
+2018-07-20,July,Friday,MOOH01,SHCW,Women's hair cut,JJ,102,0
+2018-07-20,July,Friday,LYL01,SHCW,Women's hair cut,JJ,102,0
+2018-07-20,July,Friday,DIRK01,CHLHHC,Highlights half head and color,KELLY,120,0
+2018-07-20,July,Friday,ROBT01,CALC,Accent lights and color,JOANNE,125,0
+2018-07-20,July,Friday,MURS02,CHLPL,Highlights partial,JOANNE,140,0
+2018-07-20,July,Friday,SCHC01,CHLPL,Highlights partial,JOANNE,140,0
+2018-07-21,July,Saturday,LEIG01,CON,Consultation,KELLY,0,0
+2018-07-21,July,Saturday,RUGN01,SBD,Blowdry,TANYA,15,0
+2018-07-21,July,Saturday,LELS01,SBD,Blowdry,KELLY,35,0
+2018-07-21,July,Saturday,WONM02,SBD,Blowdry,JJ,44.55,1
+2018-07-21,July,Saturday,RUGN01,CTU,Color touch up,TANYA,45,0
+2018-07-21,July,Saturday,?A01,SBD,Blowdry,KELLY,45.64,1
+2018-07-21,July,Saturday,DES01,SBD,Blowdry,KELLY,45.64,1
+2018-07-21,July,Saturday,APTM01,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-21,July,Saturday,WONM02,SBD,Blowdry,JJ,52,0
+2018-07-21,July,Saturday,MCGA03,SHCM,Men's hair cut,KELLY,55,0
+2018-07-21,July,Saturday,?A01,SBD,Blowdry,KELLY,55,0
+2018-07-21,July,Saturday,MARG01,SHCM,Men's hair cut,JJ,60,0
+2018-07-21,July,Saturday,SARA01,SHCM,Men's hair cut,JJ,60,0
+2018-07-21,July,Saturday,ROST01,SHCM,Men's hair cut,JJ,60,0
+2018-07-21,July,Saturday,HYSA01,SHCM,Men's hair cut,JJ,60,0
+2018-07-21,July,Saturday,ALLM01,SHCW,Women's hair cut,JJ,82,0
+2018-07-21,July,Saturday,SCHC01,SHCW,Women's hair cut,JJ,102,0
+2018-07-21,July,Saturday,LEIG01,CHLHH,Highlights half head,KELLY,120,0
+2018-07-21,July,Saturday,DES01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-24,July,Tuesday,BISS01,CON,Consultation,BECKY,0,0
+2018-07-24,July,Tuesday,ABL*01,SHCM,Men's hair cut,BECKY,30,0
+2018-07-24,July,Tuesday,ND01,SHCM,Men's hair cut,BECKY,30,0
+2018-07-24,July,Tuesday,TRUA02,SHCM,Men's hair cut,KELLY,35,0
+2018-07-24,July,Tuesday,DAS*01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-24,July,Tuesday,CARK01,SBD,Blowdry,KELLY,35,0
+2018-07-24,July,Tuesday,TRUA01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-07-24,July,Tuesday,TRUA01,SHCM,Men's hair cut,JJ,40,0
+2018-07-24,July,Tuesday,BLAR01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-07-24,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,45.26,1
+2018-07-24,July,Tuesday,LEEJ02,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-24,July,Tuesday,MELE01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-24,July,Tuesday,BROS02,SHCM,Men's hair cut,BECKY,50,0
+2018-07-24,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,50,0
+2018-07-24,July,Tuesday,BORJ01,SHCM,Men's hair cut,JJ,60,0
+2018-07-24,July,Tuesday,GIEC01,SHCM,Men's hair cut,JJ,60,0
+2018-07-24,July,Tuesday,DACJ01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-24,July,Tuesday,CLAM01,CTU,Color touch up,JOANNE,70,0
+2018-07-24,July,Tuesday,DAWP01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-24,July,Tuesday,KUKH01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-24,July,Tuesday,AGOE01,SHCW,Women's hair cut,JJ,82,0
+2018-07-24,July,Tuesday,LEES01,SHCW,Women's hair cut,JJ,82,0
+2018-07-24,July,Tuesday,HUDM01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-24,July,Tuesday,MACA01,SHCW,Women's hair cut,JJ,92,0
+2018-07-24,July,Tuesday,CLAJ01,SHCW,Women's hair cut,JJ,102,0
+2018-07-24,July,Tuesday,KUKK01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-24,July,Tuesday,MACA01,CALC,Accent lights and color,JOANNE,130,0
+2018-07-24,July,Tuesday,HENK01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-07-24,July,Tuesday,KUKH01,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-24,July,Tuesday,NOTA01,SBD,Blowdry,BECKY,45.26,1
+2018-07-25,July,Wednesday,WOOJ01,CON,Consultation,JJ,0,0
+2018-07-25,July,Wednesday,WOOJ01,CON,Consultation,JOANNE,0,0
+2018-07-25,July,Wednesday,GA01,SBD,Blowdry,TANYA,15,0
+2018-07-25,July,Wednesday,ATLB01,SHCM,Men's hair cut,KELLY,35,0
+2018-07-25,July,Wednesday,DOWR01,SBD,Blowdry,TANYA,35,0
+2018-07-25,July,Wednesday,GA01,CTU,Color touch up,TANYA,45,0
+2018-07-25,July,Wednesday,KUKK01,SBD,Blowdry,KELLY,45.64,1
+2018-07-25,July,Wednesday,RADP01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-25,July,Wednesday,KRAS01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-25,July,Wednesday,LAIA01,SBD,Blowdry,KELLY,55,0
+2018-07-25,July,Wednesday,MOOJ01,SBD,Blowdry,KELLY,55,0
+2018-07-25,July,Wednesday,MCLI01,SHCM,Men's hair cut,JJ,60,0
+2018-07-25,July,Wednesday,RUTA01,CTU,Color touch up,JOANNE,60,0
+2018-07-25,July,Wednesday,NEEL01,CTU,Color touch up,JOANNE,70,0
+2018-07-25,July,Wednesday,BENC01,CTU,Color touch up,JOANNE,70,0
+2018-07-25,July,Wednesday,GARJ02,SHCW,Women's hair cut,JJ,82,0
+2018-07-25,July,Wednesday,RUTA01,SHCW,Women's hair cut,JJ,92,0
+2018-07-25,July,Wednesday,NEEL01,SHCW,Women's hair cut,JJ,102,0
+2018-07-25,July,Wednesday,GAGC01,SHCW,Women's hair cut,JJ,102,0
+2018-07-25,July,Wednesday,KUKK01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-26,July,Thursday,CAYK01,TRE 1,Treatments 1,TANYA,20,0
+2018-07-26,July,Thursday,SCHJ02,SHCM,Men's hair cut,JJ,20,0
+2018-07-26,July,Thursday,TASR01,SMARTBOND,Smart Bond,JOANNE,25,0
+2018-07-26,July,Thursday,MACT02,SHCC,Children (under 12),JJ,32,0
+2018-07-26,July,Thursday,WEEJ01,SBD,Blowdry,JJ,32,0
+2018-07-26,July,Thursday,MILJ01,SBD,Blowdry,JJ,32,0
+2018-07-26,July,Thursday,MACR01,SHCM,Men's hair cut,JJ,40,0
+2018-07-26,July,Thursday,SMIL01,SHCM,Men's hair cut,JJ,40,0
+2018-07-26,July,Thursday,SPEK01,CTU,Color touch up,JJ,40,1
+2018-07-26,July,Thursday,ATMM01,SBD,Blowdry,JJ,44.55,1
+2018-07-26,July,Thursday,KUKK01,SBD,Blowdry,KELLY,45.64,1
+2018-07-26,July,Thursday,BRAN01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-26,July,Thursday,MAKM01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-26,July,Thursday,JONC01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-26,July,Thursday,SIRM01,SBD,Blowdry,BECKY,50,0
+2018-07-26,July,Thursday,HILJ01,SBD,Blowdry,BECKY,50,0
+2018-07-26,July,Thursday,COLG01,SBD,Blowdry,JJ,52,0
+2018-07-26,July,Thursday,VERD01,SHCM,Men's hair cut,KELLY,55,0
+2018-07-26,July,Thursday,GOOA02,SHCW,Women's hair cut,BECKY,60,0
+2018-07-26,July,Thursday,LYNG01,SHCM,Men's hair cut,JJ,60,0
+2018-07-26,July,Thursday,THOD01,SHCM,Men's hair cut,JJ,60,0
+2018-07-26,July,Thursday,CAYK01,SHCW,Women's hair cut,KELLY,75,0
+2018-07-26,July,Thursday,SMIC01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-26,July,Thursday,SKUT01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-26,July,Thursday,SCOL01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-26,July,Thursday,CAYK01,CFC,Color full color,JOANNE,85,0
+2018-07-26,July,Thursday,GOOA02,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-26,July,Thursday,KUKK01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-26,July,Thursday,TASR01,CCO,Color correction,JOANNE,205,0
+2018-07-26,July,Thursday,MOOJ01,CHLHH,Highlights half head,KELLY,125,1
+2018-07-27,July,Friday,ZIMJ01,CON,Consultation,JJ,0,0
+2018-07-27,July,Friday,MEYN01,TRE 1,Treatments 1,JOANNE,16.25,1
+2018-07-27,July,Friday,JAMM01,SHCM,Men's hair cut,BECKY,30,0
+2018-07-27,July,Friday,JONE01,SBD,Blowdry,KELLY,35,0
+2018-07-27,July,Friday,KENJ01,SBD,Blowdry,KELLY,35,0
+2018-07-27,July,Friday,JONE01,SMARTBOND,Smart Bond,KELLY,37.81,1
+2018-07-27,July,Friday,JONE01,CT,Color toner,KELLY,45,0
+2018-07-27,July,Friday,SCHJ01,CCAMO,Men's camo color,JJ,45,0
+2018-07-27,July,Friday,BROS01,SBD,Blowdry,BECKY,45.26,1
+2018-07-27,July,Friday,MEYN01,SBD,Blowdry,KELLY,45.64,1
+2018-07-27,July,Friday,JONE01,TRE 1,Treatments 1,KELLY,50,0
+2018-07-27,July,Friday,MERM01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-27,July,Friday,STEL02,SHCM,Men's hair cut,BECKY,50,0
+2018-07-27,July,Friday,SKUD01,SBD,Blowdry,BECKY,50,0
+2018-07-27,July,Friday,WOOD02,SBD,Blowdry,JJ,52,0
+2018-07-27,July,Friday,THIA01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-27,July,Friday,LOSC01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-27,July,Friday,PN01,SHCM,Men's hair cut,KELLY,55,0
+2018-07-27,July,Friday,DUFD01,SHCM,Men's hair cut,JJ,60,0
+2018-07-27,July,Friday,SCHJ01,SHCM,Men's hair cut,JJ,60,0
+2018-07-27,July,Friday,GRIF01,CTU,Color touch up,JOANNE,60,0
+2018-07-27,July,Friday,MEYN01,CFC,Color full color,JOANNE,77.06,1
+2018-07-27,July,Friday,CHMY01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-27,July,Friday,LYOH01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-27,July,Friday,MCKT01,SHCW,Women's hair cut,BECKY,80,0
+2018-07-27,July,Friday,GRIF01,SHCW,Women's hair cut,JJ,92,0
+2018-07-27,July,Friday,MARR01,SHCW,Women's hair cut,JJ,102,0
+2018-07-27,July,Friday,LINM01,SHCW,Women's hair cut,JJ,102,0
+2018-07-27,July,Friday,KUCM02,SHCW,Women's hair cut,JJ,102,0
+2018-07-27,July,Friday,INGS01,CHLHH,Highlights half head,TANYA,125,1
+2018-07-27,July,Friday,LEAS01,CAL,accent lights,JOANNE,125,0
+2018-07-27,July,Friday,SCHC01,CALC,Accent lights and color,JOANNE,127,1
+2018-07-27,July,Friday,LINM01,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-27,July,Friday,JONE01,CBAL,Balayage,KELLY,170,0
+2018-07-27,July,Friday,CHUJ01,SBD5+1,Blow dry bundle 5+1,HOUSE,250,0
+2018-07-27,July,Friday,AMAB01,SHCM,Men's hair cut,KELLY,38.8,1
+2018-07-28,July,Saturday,SARK01,CON,Consultation,JOANNE,0,0
+2018-07-28,July,Saturday,KELR01,SBD,Blowdry,BECKY,5,0
+2018-07-28,July,Saturday,PERB01,SBD,Blowdry,JJ,32,0
+2018-07-28,July,Saturday,NEML01,SBD,Blowdry,JJ,32,0
+2018-07-28,July,Saturday,DD01,SBD,Blowdry,KELLY,35,0
+2018-07-28,July,Saturday,HOC01,CT,Color toner,KELLY,35,0
+2018-07-28,July,Saturday,BURT01,CAL,accent lights,JOANNE,45,0
+2018-07-28,July,Saturday,BROS01,SBD,Blowdry,BECKY,45.26,1
+2018-07-28,July,Saturday,WAX*01,SHCM,Men's hair cut,JJ,49.48,1
+2018-07-28,July,Saturday,BOTN01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-28,July,Saturday,IRWE01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-28,July,Saturday,NELT01,SBD,Blowdry,BECKY,50,0
+2018-07-28,July,Saturday,BROS01,SBD,Blowdry,BECKY,50,0
+2018-07-28,July,Saturday,TOLM01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-28,July,Saturday,KOMK01,SHCW,Women's hair cut,KELLY,55,0
+2018-07-28,July,Saturday,JOYA01,SHCW,Women's hair cut,BECKY,60,0
+2018-07-28,July,Saturday,BURT01,SHCM,Men's hair cut,JJ,60,0
+2018-07-28,July,Saturday,HOC01,SHCW,Women's hair cut,KELLY,65,0
+2018-07-28,July,Saturday,COAJ01,SHCW,Women's hair cut,BECKY,70,0
+2018-07-28,July,Saturday,IRWE01,CTU,Color touch up,JOANNE,70,0
+2018-07-28,July,Saturday,KELA01,SDUD,Dry updo,JJ,82,0
+2018-07-28,July,Saturday,MARM01,CFC,Color full color,JOANNE,85,0
+2018-07-28,July,Saturday,NEEL01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-28,July,Saturday,GOOA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-28,July,Saturday,COAJ01,CHLHHC,Highlights half head and color,JOANNE,140,0
+2018-07-28,July,Saturday,RUMJ02,CHLPL,Highlights partial,JOANNE,160,0
+2018-07-29,July,Sunday,APTM01,SHCM,Men's hair cut,JJ,30,0
+2018-07-29,July,Sunday,KOOM02,SHCM,Men's hair cut,JJ,40,0
+2018-07-29,July,Sunday,SPIJ01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-29,July,Sunday,ALIA01,SHCM,Men's hair cut,BECKY,50,0
+2018-07-29,July,Sunday,RIHM01,SBD,Blowdry,BECKY,45.26,1
+2018-07-29,July,Sunday,SEEK01,SBD,Blowdry,BECKY,45.26,1
+2018-07-29,July,Sunday,TYRA01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-29,July,Sunday,WONM02,SBD,Blowdry,JJ,44.55,1
+2018-07-31,July,Tuesday,KUKK01,SBD,Blowdry,BECKY,45.26,1
+2018-07-31,July,Tuesday,BROS01,SHCW,Women's hair cut,BECKY,67.84,1
+2018-07-31,July,Tuesday,HENK01,SHCW,Women's hair cut,JJ,88.44,1
+2018-07-31,July,Tuesday,HENK01,CHLPL,Highlights partial,JOANNE,147.73,1
+2018-08-04,August,Saturday,TUMM01,CTU,Color touch up,JOANNE,66.52,1
+2018-08-25,August,Saturday,FLAD01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-08-28,August,Tuesday,FLAS01,SHCM,Men's hair cut,BECKY,41.15,1
+2018-09-21,September,Friday,PAE01,SHCW,Women's hair cut,KELLY,56.05,1
